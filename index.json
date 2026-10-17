@@ -1,0 +1,36 @@
+{
+ "companies": [
+  {
+   "code": "039830",
+   "corp_name": "오로라월드(주)",
+   "last_end": "2026.06",
+   "market": "코스닥",
+   "memo": "오로라",
+   "n_reports": 22,
+   "price": "2026-10-15"
+  },
+  {
+   "code": "052900",
+   "corp_name": "(주)케이엑스하이텍",
+   "last_end": "2026.06",
+   "market": "코스닥",
+   "memo": "KX하이텍",
+   "n_reports": 22,
+   "price": "2026-10-15"
+  }
+ ],
+ "generated_at": "2026-10-17T12:36:13+09:00",
+ "kind": "fin",
+ "layout": 1,
+ "problems": [],
+ "run": {
+  "calls": 4,
+  "calls_price": 2,
+  "docs": 0,
+  "extras": 0,
+  "price_key": true,
+  "prices": 2,
+  "reports": 0,
+  "seconds": 3
+ }
+}
