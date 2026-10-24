@@ -1,0 +1,2853 @@
+{
+ "acc_mt": 12,
+ "annual": [
+  {
+   "basis": "CFS",
+   "bs": {
+    "assets": 390797919817,
+    "cash": 15225148529,
+    "current_assets": 118317346391,
+    "current_liab": 152820697935,
+    "debt": 212699273315,
+    "equity": 127890435000,
+    "equity_owner": 121889840574,
+    "inventories": 55081191947,
+    "liabilities": 262907484817
+   },
+   "cf": {
+    "capex": 7063128792,
+    "capex_int": 1108851214,
+    "cff": 72084663263,
+    "cfi": -67850838620,
+    "cfo": 3392083326,
+    "div_paid": 1025371400
+   },
+   "end": "2021-12",
+   "is": {
+    "cogs": 99057509933,
+    "eps": 925,
+    "gross": 79018254686,
+    "ni": 9483004064,
+    "ni_minority": -1404443,
+    "ni_owner": 9484408507,
+    "op": 10606169157,
+    "pbt": 12124312326,
+    "revenue": 178075764619,
+    "sga": 68412085529
+   },
+   "label": "2021",
+   "rcept_no": "20220323001306"
+  },
+  {
+   "basis": "CFS",
+   "bs": {
+    "assets": 463964663593,
+    "cash": 36455658040,
+    "current_assets": 168608234343,
+    "current_liab": 205101792587,
+    "debt": 270120161711,
+    "equity": 134485224091,
+    "equity_owner": 128258358194,
+    "inventories": 78490430410,
+    "liabilities": 329479439502
+   },
+   "cf": {
+    "capex": 31436594942,
+    "capex_int": 3351369940,
+    "cff": 52179066353,
+    "cfi": -27490393798,
+    "cfo": -1851863146,
+    "div_paid": 1230445680
+   },
+   "end": "2022-12",
+   "is": {
+    "cogs": 127024764920,
+    "eps": 719,
+    "gross": 104669494823,
+    "ni": 7562417767,
+    "ni_minority": 225706479,
+    "ni_owner": 7336711288,
+    "op": 18349623439,
+    "pbt": 9621277802,
+    "revenue": 231694259743,
+    "sga": 86319871384
+   },
+   "label": "2022",
+   "rcept_no": "20230317001018"
+  },
+  {
+   "basis": "CFS",
+   "bs": {
+    "assets": 522953291743,
+    "cash": 32547337953,
+    "current_assets": 159239349642,
+    "current_liab": 279971011642,
+    "debt": 84138420978,
+    "equity": 139765602745,
+    "equity_owner": 134597661314,
+    "inventories": 71477630238,
+    "liabilities": 383187688998
+   },
+   "cf": {
+    "capex": 70582340366,
+    "capex_int": 464751937,
+    "cff": 50815416690,
+    "cfi": -71816626935,
+    "cfo": 16116501309,
+    "div_paid": 1216426800
+   },
+   "end": "2023-12",
+   "is": {
+    "cogs": 109293959447,
+    "eps": 703,
+    "gross": 123261106091,
+    "ni": 6054823653,
+    "ni_minority": -1058499944,
+    "ni_owner": 7113323597,
+    "op": 28430933871,
+    "pbt": 9267232976,
+    "revenue": 232555065538,
+    "sga": 94830172220
+   },
+   "label": "2023",
+   "rcept_no": "20240318000762"
+  },
+  {
+   "basis": "CFS",
+   "bs": {
+    "assets": 565733440071,
+    "cash": 34180592214,
+    "current_assets": 171280827568,
+    "current_liab": 322891209304,
+    "debt": null,
+    "equity": 153205924813,
+    "equity_owner": 150184831734,
+    "inventories": 77999563462,
+    "liabilities": 412527515258
+   },
+   "cf": {
+    "capex": 25528967736,
+    "capex_int": 1987780041,
+    "cff": 7279168208,
+    "cfi": -29207683800,
+    "cfo": 20260971541,
+    "div_paid": 1504183500
+   },
+   "end": "2024-12",
+   "is": {
+    "cogs": 128032483518,
+    "eps": 635,
+    "gross": 147663606619,
+    "ni": 4159522263,
+    "ni_minority": -2145147503,
+    "ni_owner": 6304669766,
+    "op": 30971652389,
+    "pbt": 8482562649,
+    "revenue": 275696090137,
+    "sga": 116691954230
+   },
+   "label": "2024",
+   "rcept_no": "20250814002354"
+  },
+  {
+   "basis": "CFS",
+   "bs": {
+    "assets": 582524010741,
+    "cash": 40245689580,
+    "current_assets": 188514704317,
+    "current_liab": 300948542512,
+    "debt": 334770078836,
+    "equity": 177843671658,
+    "equity_owner": 175573907831,
+    "inventories": 88077106919,
+    "liabilities": 404680339083
+   },
+   "cf": {
+    "capex": 8405970906,
+    "capex_int": 55682337,
+    "cff": -4707370692,
+    "cfi": -7930653402,
+    "cfo": 19701243103,
+    "div_paid": 1779028200
+   },
+   "end": "2025-12",
+   "is": {
+    "cogs": 145194271675,
+    "eps": 2279,
+    "gross": 182885699623,
+    "ni": 21019291720,
+    "ni_minority": -752664675,
+    "ni_owner": 21771956395,
+    "op": 44479974147,
+    "pbt": 31241276746,
+    "revenue": 328079971298,
+    "sga": 138405725476
+   },
+   "label": "2025",
+   "rcept_no": "20260320000852"
+  }
+ ],
+ "balance": [
+  {
+   "assets": 283402876571,
+   "basis": "CFS",
+   "cash": 8979072738,
+   "current_assets": 94032614992,
+   "current_liab": 122999114248,
+   "debt": 137923061652,
+   "debt_parts": [
+    [
+     "단기차입금",
+     101723220358
+    ],
+    [
+     "장기차입금",
+     36199841294
+    ]
+   ],
+   "end": "2021-03",
+   "equity": 113086358426,
+   "equity_owner": 113090370560,
+   "inventories": 46112323176,
+   "known": "20210517",
+   "label": "2021.03",
+   "liabilities": 170316518145
+  },
+  {
+   "assets": 348336706408,
+   "basis": "CFS",
+   "cash": 10592838770,
+   "current_assets": 101224914224,
+   "current_liab": 129385313336,
+   "debt": 196975252371,
+   "debt_parts": [
+    [
+     "단기차입금",
+     107069229085
+    ],
+    [
+     "장기차입금",
+     89906023286
+    ]
+   ],
+   "end": "2021-06",
+   "equity": 118329601659,
+   "equity_owner": 118333823031,
+   "inventories": 46138961694,
+   "known": "20210817",
+   "label": "2021.06",
+   "liabilities": 230007104749
+  },
+  {
+   "assets": 359522271619,
+   "basis": "CFS",
+   "cash": 23182643037,
+   "current_assets": 120535998899,
+   "current_liab": 133936467705,
+   "debt": 200374241313,
+   "debt_parts": [
+    [
+     "단기차입금",
+     110251369549
+    ],
+    [
+     "장기차입금",
+     90122871764
+    ]
+   ],
+   "end": "2021-09",
+   "equity": 124269225089,
+   "equity_owner": 124274252323,
+   "inventories": 50432355671,
+   "known": "20211115",
+   "label": "2021.09",
+   "liabilities": 235253046531
+  },
+  {
+   "assets": 390797919817,
+   "basis": "CFS",
+   "cash": 15225148529,
+   "current_assets": 118317346391,
+   "current_liab": 152820697935,
+   "debt": 212699273315,
+   "debt_parts": [
+    [
+     "단기차입금",
+     121838359147
+    ],
+    [
+     "장기차입금",
+     90860914168
+    ]
+   ],
+   "end": "2021-12",
+   "equity": 127890435000,
+   "equity_owner": 121889840574,
+   "inventories": 55081191947,
+   "known": "20220323",
+   "label": "2021.12",
+   "liabilities": 262907484817
+  },
+  {
+   "assets": 393649514534,
+   "basis": "CFS",
+   "cash": 15275755175,
+   "current_assets": 123558452243,
+   "current_liab": 151962733709,
+   "debt": 210415694463,
+   "debt_parts": [
+    [
+     "단기차입금",
+     120666658707
+    ],
+    [
+     "장기차입금",
+     89749035756
+    ]
+   ],
+   "end": "2022-03",
+   "equity": 133187139852,
+   "equity_owner": 127217514134,
+   "inventories": 56157985236,
+   "known": "20220516",
+   "label": "2022.03",
+   "liabilities": 260462374682
+  },
+  {
+   "assets": 429461311451,
+   "basis": "CFS",
+   "cash": 28457797669,
+   "current_assets": 147832899292,
+   "current_liab": 175539169209,
+   "debt": 240454427613,
+   "debt_parts": [
+    [
+     "단기차입금",
+     143361823180
+    ],
+    [
+     "장기차입금",
+     97092604433
+    ]
+   ],
+   "end": "2022-06",
+   "equity": 137468257749,
+   "equity_owner": 131543394106,
+   "inventories": 65151021759,
+   "known": "20220816",
+   "label": "2022.06",
+   "liabilities": 291993053702
+  },
+  {
+   "assets": 447544361033,
+   "basis": "CFS",
+   "cash": 20793651739,
+   "current_assets": 158251438333,
+   "current_liab": 188756550260,
+   "debt": 251926410493,
+   "debt_parts": [
+    [
+     "단기차입금",
+     152810719502
+    ],
+    [
+     "장기차입금",
+     99115690991
+    ]
+   ],
+   "end": "2022-09",
+   "equity": 138200027010,
+   "equity_owner": 132384802818,
+   "inventories": 84717557846,
+   "known": "20221114",
+   "label": "2022.09",
+   "liabilities": 309344334023
+  },
+  {
+   "assets": 463964663593,
+   "basis": "CFS",
+   "cash": 36455658040,
+   "current_assets": 168608234343,
+   "current_liab": 205101792587,
+   "debt": 270120161711,
+   "debt_parts": [
+    [
+     "단기차입금",
+     170117319478
+    ],
+    [
+     "장기차입금",
+     100002842233
+    ]
+   ],
+   "end": "2022-12",
+   "equity": 134485224091,
+   "equity_owner": 128258358194,
+   "inventories": 78490430410,
+   "known": "20230317",
+   "label": "2022.12",
+   "liabilities": 329479439502
+  },
+  {
+   "assets": 481923228202,
+   "basis": "CFS",
+   "cash": 35905276335,
+   "current_assets": 173715711956,
+   "current_liab": 219141255111,
+   "debt": 285315817318,
+   "debt_parts": [
+    [
+     "단기차입금",
+     184759523852
+    ],
+    [
+     "장기차입금",
+     100556293466
+    ]
+   ],
+   "end": "2023-03",
+   "equity": 138718690035,
+   "equity_owner": 132684119237,
+   "inventories": 84011473630,
+   "known": "20230515",
+   "label": "2023.03",
+   "liabilities": 343204538167
+  },
+  {
+   "assets": 486493441096,
+   "basis": "CFS",
+   "cash": 19776025520,
+   "current_assets": 158957016325,
+   "current_liab": 214200449346,
+   "debt": 287126647081,
+   "debt_parts": [
+    [
+     "단기차입금",
+     174005408096
+    ],
+    [
+     "장기차입금",
+     113121238985
+    ]
+   ],
+   "end": "2023-06",
+   "equity": 140160802546,
+   "equity_owner": 134242762734,
+   "inventories": 85148616441,
+   "known": "20230814",
+   "label": "2023.06",
+   "liabilities": 346332638550
+  },
+  {
+   "assets": 510910578294,
+   "basis": "CFS",
+   "cash": 20313085588,
+   "current_assets": 161222910259,
+   "current_liab": 266648593608,
+   "debt": 81535512862,
+   "debt_parts": [
+    [
+     "장기차입금",
+     81535512862
+    ]
+   ],
+   "end": "2023-09",
+   "equity": 144935202407,
+   "equity_owner": 139401086449,
+   "inventories": 81305367444,
+   "known": "20231114",
+   "label": "2023.09",
+   "liabilities": 365975375887
+  },
+  {
+   "assets": 522953291743,
+   "basis": "CFS",
+   "cash": 32547337953,
+   "current_assets": 159239349642,
+   "current_liab": 279971011642,
+   "debt": 84138420978,
+   "debt_parts": [
+    [
+     "장기차입금",
+     84138420978
+    ]
+   ],
+   "end": "2023-12",
+   "equity": 139765602745,
+   "equity_owner": 134597661314,
+   "inventories": 71477630238,
+   "known": "20240318",
+   "label": "2023.12",
+   "liabilities": 383187688998
+  },
+  {
+   "assets": 514792205032,
+   "basis": "CFS",
+   "cash": 19506752434,
+   "current_assets": 140670696152,
+   "current_liab": 267858427175,
+   "debt": 82061299748,
+   "debt_parts": [
+    [
+     "장기차입금",
+     82061299748
+    ]
+   ],
+   "end": "2024-03",
+   "equity": 145900846889,
+   "equity_owner": 141096284240,
+   "inventories": 69404671407,
+   "known": "20240516",
+   "label": "2024.03",
+   "liabilities": 368891358143
+  },
+  {
+   "assets": 539440005092,
+   "basis": "CFS",
+   "cash": 23205901361,
+   "current_assets": 155051969266,
+   "current_liab": 293922058754,
+   "debt": 77521247808,
+   "debt_parts": [
+    [
+     "장기차입금",
+     77521247808
+    ]
+   ],
+   "end": "2024-06",
+   "equity": 145280475962,
+   "equity_owner": 140982970673,
+   "inventories": 76512649612,
+   "known": "20240814",
+   "label": "2024.06",
+   "liabilities": 394159529130
+  },
+  {
+   "assets": 541504874412,
+   "basis": "CFS",
+   "cash": 21393693035,
+   "current_assets": 153457755258,
+   "current_liab": 291584683318,
+   "debt": null,
+   "debt_parts": [],
+   "end": "2024-09",
+   "equity": 150622750972,
+   "equity_owner": 146403886941,
+   "inventories": 70618874938,
+   "known": "20241114",
+   "label": "2024.09",
+   "liabilities": 390882123440
+  },
+  {
+   "assets": 565733440071,
+   "basis": "CFS",
+   "cash": 34180592214,
+   "current_assets": 171280827568,
+   "current_liab": 322891209304,
+   "debt": null,
+   "debt_parts": [],
+   "end": "2024-12",
+   "equity": 153205924813,
+   "equity_owner": 150184831734,
+   "inventories": 77999563462,
+   "known": "20250317",
+   "label": "2024.12",
+   "liabilities": 412527515258
+  },
+  {
+   "assets": 562927568782,
+   "basis": "CFS",
+   "cash": 34311363934,
+   "current_assets": 168752296332,
+   "current_liab": 317909870015,
+   "debt": null,
+   "debt_parts": [],
+   "end": "2025-03",
+   "equity": 153850809539,
+   "equity_owner": 151511352778,
+   "inventories": 71262016648,
+   "known": "20250515",
+   "label": "2025.03",
+   "liabilities": 409076759243
+  },
+  {
+   "assets": 543042495567,
+   "basis": "CFS",
+   "cash": 30702215099,
+   "current_assets": 152293692460,
+   "current_liab": 331808116938,
+   "debt": null,
+   "debt_parts": [],
+   "end": "2025-06",
+   "equity": 154468899013,
+   "equity_owner": 151549719302,
+   "inventories": 65079039499,
+   "known": "20250814",
+   "label": "2025.06",
+   "liabilities": 388573596554
+  },
+  {
+   "assets": 558182675133,
+   "basis": "CFS",
+   "cash": 29890773451,
+   "current_assets": 169887353655,
+   "current_liab": 335341781503,
+   "debt": null,
+   "debt_parts": [],
+   "end": "2025-09",
+   "equity": 165829087107,
+   "equity_owner": 163239468891,
+   "inventories": 74770210908,
+   "known": "20251114",
+   "label": "2025.09",
+   "liabilities": 392353588026
+  },
+  {
+   "assets": 582524010741,
+   "basis": "CFS",
+   "cash": 40245689580,
+   "current_assets": 188514704317,
+   "current_liab": 300948542512,
+   "debt": 334770078836,
+   "debt_parts": [
+    [
+     "차입금",
+     263618110073
+    ],
+    [
+     "차입금",
+     71151968763
+    ]
+   ],
+   "end": "2025-12",
+   "equity": 177843671658,
+   "equity_owner": 175573907831,
+   "inventories": 88077106919,
+   "known": "20260320",
+   "label": "2025.12",
+   "liabilities": 404680339083
+  },
+  {
+   "assets": 600242683976,
+   "basis": "CFS",
+   "cash": 32883366983,
+   "current_assets": 206598499134,
+   "current_liab": 309531612297,
+   "debt": 339790683130,
+   "debt_parts": [
+    [
+     "차입금",
+     267131702654
+    ],
+    [
+     "차입금",
+     72658980476
+    ]
+   ],
+   "end": "2026-03",
+   "equity": 184347216820,
+   "equity_owner": 182989619645,
+   "inventories": 92667864932,
+   "known": "20260515",
+   "label": "2026.03",
+   "liabilities": 415895467156
+  },
+  {
+   "assets": 620672079331,
+   "basis": "CFS",
+   "cash": 37550940628,
+   "current_assets": 225737935673,
+   "current_liab": 321404919475,
+   "debt": 337886495964,
+   "debt_parts": [
+    [
+     "차입금",
+     264866206111
+    ],
+    [
+     "차입금",
+     73020289853
+    ]
+   ],
+   "end": "2026-06",
+   "equity": 195300902332,
+   "equity_owner": 193498052894,
+   "inventories": 99282373381,
+   "known": "20260814",
+   "label": "2026.06",
+   "liabilities": 425371176999
+  }
+ ],
+ "checks": [],
+ "code": "039830",
+ "corp_code": "00141556",
+ "corp_name": "오로라월드(주)",
+ "dividends": [
+  {
+   "dps": {
+    "frmtrm": "100",
+    "lwfr": "200",
+    "se": "주당 현금배당금(원)",
+    "thstrm": "120"
+   },
+   "end": "2021-12",
+   "eps": {
+    "frmtrm": "781",
+    "lwfr": "368",
+    "se": "(연결)주당순이익(원)",
+    "thstrm": "925"
+   },
+   "ni": {
+    "frmtrm": "8,002",
+    "lwfr": "3,765",
+    "se": "(연결)당기순이익(백만원)",
+    "thstrm": "9,483"
+   },
+   "payout": {
+    "frmtrm": "12.80",
+    "lwfr": "54.40",
+    "se": "(연결)현금배당성향(%)",
+    "thstrm": "13.00"
+   },
+   "total": {
+    "frmtrm": "1,025",
+    "lwfr": "2,050",
+    "se": "현금배당금총액(백만원)",
+    "thstrm": "1,230"
+   },
+   "yield": {
+    "frmtrm": "1.07",
+    "lwfr": "1.55",
+    "se": "현금배당수익률(%)",
+    "thstrm": "1.27"
+   }
+  },
+  {
+   "dps": {
+    "frmtrm": "120",
+    "lwfr": "100",
+    "se": "주당 현금배당금(원)",
+    "thstrm": "120"
+   },
+   "end": "2022-12",
+   "eps": {
+    "frmtrm": "925",
+    "lwfr": "781",
+    "se": "(연결)주당순이익(원)",
+    "thstrm": "719"
+   },
+   "ni": {
+    "frmtrm": "9,483",
+    "lwfr": "8,012",
+    "se": "(연결)당기순이익(백만원)",
+    "thstrm": "7,562"
+   },
+   "payout": {
+    "frmtrm": "13.00",
+    "lwfr": "12.80",
+    "se": "(연결)현금배당성향(%)",
+    "thstrm": "16.10"
+   },
+   "total": {
+    "frmtrm": "1,230",
+    "lwfr": "1,025",
+    "se": "현금배당금총액(백만원)",
+    "thstrm": "1,216"
+   },
+   "yield": {
+    "frmtrm": "1.27",
+    "lwfr": "1.07",
+    "se": "현금배당수익률(%)",
+    "thstrm": "1.46"
+   }
+  },
+  {
+   "dps": {
+    "frmtrm": "120",
+    "lwfr": "120",
+    "se": "주당 현금배당금(원)",
+    "thstrm": "150"
+   },
+   "end": "2023-12",
+   "eps": {
+    "frmtrm": "719",
+    "lwfr": "925",
+    "se": "(연결)주당순이익(원)",
+    "thstrm": "618"
+   },
+   "ni": {
+    "frmtrm": "7,562",
+    "lwfr": "9,483",
+    "se": "(연결)당기순이익(백만원)",
+    "thstrm": "6,055"
+   },
+   "payout": {
+    "frmtrm": "16.10",
+    "lwfr": "13.00",
+    "se": "(연결)현금배당성향(%)",
+    "thstrm": "24.30"
+   },
+   "total": {
+    "frmtrm": "1,216",
+    "lwfr": "1,230",
+    "se": "현금배당금총액(백만원)",
+    "thstrm": "1,504"
+   },
+   "yield": {
+    "frmtrm": "1.46",
+    "lwfr": "1.27",
+    "se": "현금배당수익률(%)",
+    "thstrm": "2.07"
+   }
+  },
+  {
+   "dps": {
+    "frmtrm": "150",
+    "lwfr": "120",
+    "se": "주당 현금배당금(원)",
+    "thstrm": "180"
+   },
+   "end": "2024-12",
+   "eps": {
+    "frmtrm": "703",
+    "lwfr": "719",
+    "se": "(연결)주당순이익(원)",
+    "thstrm": "635"
+   },
+   "ni": {
+    "frmtrm": "6,055",
+    "lwfr": "7,562",
+    "se": "(연결)당기순이익(백만원)",
+    "thstrm": "4,160"
+   },
+   "payout": {
+    "frmtrm": "24.30",
+    "lwfr": "16.10",
+    "se": "(연결)현금배당성향(%)",
+    "thstrm": "42.80"
+   },
+   "total": {
+    "frmtrm": "1,504",
+    "lwfr": "1,216",
+    "se": "현금배당금총액(백만원)",
+    "thstrm": "1,779"
+   },
+   "yield": {
+    "frmtrm": "2.07",
+    "lwfr": "1.46",
+    "se": "현금배당수익률(%)",
+    "thstrm": "2.96"
+   }
+  },
+  {
+   "dps": {
+    "frmtrm": "180",
+    "lwfr": "150",
+    "se": "주당 현금배당금(원)",
+    "thstrm": "100"
+   },
+   "end": "2025-12",
+   "eps": {
+    "frmtrm": "635",
+    "lwfr": "703",
+    "se": "(연결)주당순이익(원)",
+    "thstrm": "2,084"
+   },
+   "ni": {
+    "frmtrm": "4,160",
+    "lwfr": "6,055",
+    "se": "(연결)당기순이익(백만원)",
+    "thstrm": "19,446"
+   },
+   "payout": {
+    "frmtrm": "42.80",
+    "lwfr": "24.30",
+    "se": "(연결)현금배당성향(%)",
+    "thstrm": "4.70"
+   },
+   "total": {
+    "frmtrm": "1,779",
+    "lwfr": "1,504",
+    "se": "현금배당금총액(백만원)",
+    "thstrm": "943"
+   },
+   "yield": {
+    "frmtrm": "2.96",
+    "lwfr": "2.07",
+    "se": "현금배당수익률(%)",
+    "thstrm": "0.51"
+   }
+  }
+ ],
+ "employees": [
+  {
+   "end": "2021-06",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "반기보고서",
+   "total": 155
+  },
+  {
+   "end": "2021-12",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "사업보고서",
+   "total": 148
+  },
+  {
+   "end": "2022-06",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "반기보고서",
+   "total": 148
+  },
+  {
+   "end": "2022-12",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "사업보고서",
+   "total": 150
+  },
+  {
+   "end": "2023-06",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "반기보고서",
+   "total": 156
+  },
+  {
+   "end": "2023-12",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "사업보고서",
+   "total": 155
+  },
+  {
+   "end": "2024-06",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "반기보고서",
+   "total": 159
+  },
+  {
+   "end": "2024-12",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "사업보고서",
+   "total": 153
+  },
+  {
+   "end": "2025-06",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "반기보고서",
+   "total": 185
+  },
+  {
+   "end": "2025-12",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "사업보고서",
+   "total": 187
+  },
+  {
+   "end": "2026-06",
+   "how": "부문·성별 줄을 더함",
+   "reprt": "반기보고서",
+   "total": 197
+  }
+ ],
+ "generated_at": "2026-10-24T12:37:49+09:00",
+ "layout": 1,
+ "market": "코스닥",
+ "matched": {
+  "assets": {
+   "ifrs-full_Assets · 자산 총계 (표준 계정)": 3,
+   "ifrs-full_Assets · 자산총계 (표준 계정)": 19
+  },
+  "capex": {
+   "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities · 유형자산의 취득 (표준 계정)": 22
+  },
+  "capex_int": {
+   "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities · 무형자산의 취득 (표준 계정)": 22
+  },
+  "cash": {
+   "ifrs-full_CashAndCashEquivalents · 현금및현금성자산 (표준 계정)": 22
+  },
+  "cff": {
+   "ifrs-full_CashFlowsFromUsedInFinancingActivities · 재무활동으로 인한 현금흐름 (표준 계정)": 3,
+   "ifrs-full_CashFlowsFromUsedInFinancingActivities · 재무활동현금흐름 (표준 계정)": 19
+  },
+  "cfi": {
+   "ifrs-full_CashFlowsFromUsedInInvestingActivities · 투자활동으로 인한 현금흐름 (표준 계정)": 3,
+   "ifrs-full_CashFlowsFromUsedInInvestingActivities · 투자활동현금흐름 (표준 계정)": 19
+  },
+  "cfo": {
+   "ifrs-full_CashFlowsFromUsedInOperatingActivities · 영업활동으로 인한 현금흐름 (표준 계정)": 3,
+   "ifrs-full_CashFlowsFromUsedInOperatingActivities · 영업활동현금흐름 (표준 계정)": 19
+  },
+  "cogs": {
+   "ifrs-full_CostOfSales · 매출원가 (표준 계정)": 22
+  },
+  "current_assets": {
+   "ifrs-full_CurrentAssets · 유동자산 (표준 계정)": 22
+  },
+  "current_liab": {
+   "ifrs-full_CurrentLiabilities · 유동부채 (표준 계정)": 22
+  },
+  "div_paid": {
+   "ifrs-full_DividendsPaidClassifiedAsFinancingActivities · 배당금의 지급 (표준 계정)": 2,
+   "ifrs-full_DividendsPaidClassifiedAsFinancingActivities · 배당금지급 (표준 계정)": 14
+  },
+  "eps": {
+   "ifrs-full_BasicEarningsLossPerShare · 기본주당이익 (표준 계정)": 3,
+   "ifrs-full_BasicEarningsLossPerShare · 기본주당이익(손실) (표준 계정)": 19
+  },
+  "equity": {
+   "ifrs-full_Equity · 자본 총계 (표준 계정)": 3,
+   "ifrs-full_Equity · 자본총계 (표준 계정)": 19
+  },
+  "equity_owner": {
+   "ifrs-full_EquityAttributableToOwnersOfParent · 지배기업의 소유주에게 귀속되는 자본 (표준 계정)": 19,
+   "ifrs-full_EquityAttributableToOwnersOfParent · 지배기업의 소유주지분 (표준 계정)": 3
+  },
+  "gross": {
+   "ifrs-full_GrossProfit · 매출총이익 (표준 계정)": 22
+  },
+  "inventories": {
+   "ifrs-full_Inventories · 유동재고자산 (표준 계정)": 9,
+   "ifrs-full_Inventories · 재고자산 (표준 계정)": 13
+  },
+  "liabilities": {
+   "ifrs-full_Liabilities · 부채 총계 (표준 계정)": 3,
+   "ifrs-full_Liabilities · 부채총계 (표준 계정)": 19
+  },
+  "ni": {
+   "ifrs-full_ProfitLoss · 당기순이익 (표준 계정)": 2,
+   "ifrs-full_ProfitLoss · 당기순이익(손실) (표준 계정)": 19,
+   "ifrs-full_ProfitLoss · 반기순이익 (표준 계정)": 1
+  },
+  "ni_minority": {
+   "ifrs-full_ProfitLossAttributableToNoncontrollingInterests · 비지배지분 (이름으로 찾음)": 3,
+   "ifrs-full_ProfitLossAttributableToNoncontrollingInterests · 비지배지분에 귀속되는 당기순이익(손실) (이름으로 찾음)": 19
+  },
+  "ni_owner": {
+   "ifrs-full_ProfitLossAttributableToOwnersOfParent · 지배기업의 소유주에게 귀속되는 당기순이익(손실) (표준 계정)": 19,
+   "ifrs-full_ProfitLossAttributableToOwnersOfParent · 지배기업의 소유주지분 (표준 계정)": 3
+  },
+  "op": {
+   "dart_OperatingIncomeLoss · 영업이익 (표준 계정)": 3,
+   "dart_OperatingIncomeLoss · 영업이익(손실) (표준 계정)": 19
+  },
+  "pbt": {
+   "ifrs-full_ProfitLossBeforeTax · 법인세비용차감전순이익 (표준 계정)": 3,
+   "ifrs-full_ProfitLossBeforeTax · 법인세비용차감전순이익(손실) (표준 계정)": 19
+  },
+  "revenue": {
+   "ifrs-full_Revenue · 매출액 (표준 계정)": 3,
+   "ifrs-full_Revenue · 수익(매출액) (표준 계정)": 19
+  },
+  "sga": {
+   "dart_TotalSellingGeneralAdministrativeExpenses · 판매비와관리비 (표준 계정)": 22
+  }
+ },
+ "quarters": [
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 1593239008,
+    "capex_int": 142873817,
+    "cff": 2863502141,
+    "cfi": -3813104521,
+    "cfo": 2839729139
+   },
+   "derived": [],
+   "end": "2021-03",
+   "fy": 2021,
+   "is": {
+    "cogs": 17823239526,
+    "eps": 249,
+    "gross": 18091832436,
+    "ni": 2557141266,
+    "ni_minority": -831826,
+    "ni_owner": 2557973092,
+    "op": 4902628337,
+    "pbt": 3629735680,
+    "revenue": 35915071962,
+    "sga": 13189204099
+   },
+   "known": "20210517",
+   "label": "2021.03",
+   "q": 1,
+   "rcept_no": "20210521000377"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 1918065586,
+    "capex_int": 961859047,
+    "cff": 57519642163,
+    "cfi": -59160968193,
+    "cfo": 3272022717
+   },
+   "derived": [],
+   "end": "2021-06",
+   "fy": 2021,
+   "is": {
+    "cogs": 21485992208,
+    "eps": 514,
+    "gross": 20453459107,
+    "ni": 5269574111,
+    "ni_minority": -243130,
+    "ni_owner": 5269817241,
+    "op": 4150663676,
+    "pbt": 6327577180,
+    "revenue": 41939451315,
+    "sga": 16302795431
+   },
+   "known": "20210817",
+   "label": "2021.06",
+   "q": 2,
+   "rcept_no": "20210817001761"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 1945817927,
+    "capex_int": 3678350,
+    "cff": 1265802503,
+    "cfi": 12297443324,
+    "cfo": -1585517222,
+    "div_paid": 0
+   },
+   "derived": [],
+   "end": "2021-09",
+   "fy": 2021,
+   "is": {
+    "cogs": 29246924496,
+    "eps": 390,
+    "gross": 20309925106,
+    "ni": 4002201190,
+    "ni_minority": -184354,
+    "ni_owner": 4002385544,
+    "op": 2947975868,
+    "pbt": 5067064480,
+    "revenue": 49556849602,
+    "sga": 17361949238
+   },
+   "known": "20211115",
+   "label": "2021.09",
+   "q": 3,
+   "rcept_no": "20211115002454"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 1606006271,
+    "capex_int": 440000,
+    "cff": 10435716456,
+    "cfi": -17174209230,
+    "cfo": -1134151308,
+    "div_paid": 0
+   },
+   "derived": [
+    "revenue",
+    "cogs",
+    "gross",
+    "sga",
+    "op",
+    "pbt",
+    "ni",
+    "ni_owner",
+    "ni_minority"
+   ],
+   "end": "2021-12",
+   "fy": 2021,
+   "is": {
+    "cogs": 30501353703,
+    "gross": 20163038037,
+    "ni": -2345912503,
+    "ni_minority": -145133,
+    "ni_owner": -2345767370,
+    "op": -1395098724,
+    "pbt": -2900065014,
+    "revenue": 50664391740,
+    "sga": 21558136761
+   },
+   "known": "20220323",
+   "label": "2021.12",
+   "q": 4,
+   "rcept_no": "20220323001306"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 3461521656,
+    "capex_int": 2432200,
+    "cff": -3855175484,
+    "cfi": 8725317324,
+    "cfo": -5001304840
+   },
+   "derived": [],
+   "end": "2022-03",
+   "fy": 2022,
+   "is": {
+    "cogs": 31414852383,
+    "eps": 620,
+    "gross": 24398102552,
+    "ni": 6322042710,
+    "ni_minority": -30795089,
+    "ni_owner": 6352837799,
+    "op": 4889512767,
+    "pbt": 8341362192,
+    "revenue": 55812954935,
+    "sga": 19508589785
+   },
+   "known": "20220516",
+   "label": "2022.03",
+   "q": 1,
+   "rcept_no": "20220516001662"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 7025257515,
+    "capex_int": 193004400,
+    "cff": 23790837749,
+    "cfi": -8826407309,
+    "cfo": -2629396201
+   },
+   "derived": [],
+   "end": "2022-06",
+   "fy": 2022,
+   "is": {
+    "cogs": 32280181438,
+    "eps": 158,
+    "gross": 26112783007,
+    "ni": 1579300677,
+    "ni_minority": -44362492,
+    "ni_owner": 1623663169,
+    "op": 5606232113,
+    "pbt": 1611796378,
+    "revenue": 58392964445,
+    "sga": 20506550894
+   },
+   "known": "20220816",
+   "label": "2022.06",
+   "q": 2,
+   "rcept_no": "20220816002284"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 3872417757,
+    "capex_int": 290600000,
+    "cff": -4250526548,
+    "cfi": -4516631971,
+    "cfo": -218154885,
+    "div_paid": 0
+   },
+   "derived": [],
+   "end": "2022-09",
+   "fy": 2022,
+   "is": {
+    "cogs": 32111449598,
+    "eps": 129,
+    "gross": 27101302848,
+    "ni": 1187408708,
+    "ni_minority": -108523779,
+    "ni_owner": 1295932487,
+    "op": 5591173670,
+    "pbt": 1079999673,
+    "revenue": 59212752446,
+    "sga": 21510129178
+   },
+   "known": "20221114",
+   "label": "2022.09",
+   "q": 3,
+   "rcept_no": "20221114002213"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 17077398014,
+    "capex_int": 2865333340,
+    "cff": 36493930636,
+    "cfi": -22872671842,
+    "cfo": 5996992780,
+    "div_paid": 0
+   },
+   "derived": [
+    "revenue",
+    "cogs",
+    "gross",
+    "sga",
+    "op",
+    "pbt",
+    "ni",
+    "ni_owner",
+    "ni_minority"
+   ],
+   "end": "2022-12",
+   "fy": 2022,
+   "is": {
+    "cogs": 31218281501,
+    "gross": 27057306416,
+    "ni": -1526334328,
+    "ni_minority": 409387839,
+    "ni_owner": -1935722167,
+    "op": 2262704889,
+    "pbt": -1411880441,
+    "revenue": 58275587917,
+    "sga": 24794601527
+   },
+   "known": "20230317",
+   "label": "2022.12",
+   "q": 4,
+   "rcept_no": "20230317001018"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 13855196160,
+    "capex_int": 70209600,
+    "cff": 11534835822,
+    "cfi": -14155405760,
+    "cfo": 974799499
+   },
+   "derived": [],
+   "end": "2023-03",
+   "fy": 2023,
+   "is": {
+    "cogs": 23786827264,
+    "eps": 366,
+    "gross": 30049692305,
+    "ni": 3515354511,
+    "ni_minority": -191280512,
+    "ni_owner": 3706635023,
+    "op": 8501300345,
+    "pbt": 5045171437,
+    "revenue": 53836519569,
+    "sga": 21548391960
+   },
+   "known": "20230515",
+   "label": "2023.03",
+   "q": 1,
+   "rcept_no": "20230515002491"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 20423038922,
+    "capex_int": 305668892,
+    "cff": -442394696,
+    "cfi": -20553478382,
+    "cfo": 4603739069
+   },
+   "derived": [],
+   "end": "2023-06",
+   "fy": 2023,
+   "is": {
+    "cogs": 28346183165,
+    "eps": 119,
+    "gross": 29431772234,
+    "ni": 1085961328,
+    "ni_minority": -116347137,
+    "ni_owner": 1202308465,
+    "op": 6137571061,
+    "pbt": 2357583354,
+    "revenue": 57777955399,
+    "sga": 23294201173
+   },
+   "known": "20230814",
+   "label": "2023.06",
+   "q": 2,
+   "rcept_no": "20231117000264"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 22715118202,
+    "capex_int": 75350000,
+    "cff": 17316216630,
+    "cfi": -23309292065,
+    "cfo": 6153408294,
+    "div_paid": 0
+   },
+   "derived": [],
+   "end": "2023-09",
+   "fy": 2023,
+   "is": {
+    "cogs": 31489885132,
+    "eps": 398,
+    "gross": 32911089215,
+    "ni": 3653534822,
+    "ni_minority": -384063312,
+    "ni_owner": 4037598134,
+    "op": 10248868616,
+    "pbt": 4736682303,
+    "revenue": 64400974347,
+    "sga": 22662220599
+   },
+   "known": "20231114",
+   "label": "2023.09",
+   "q": 3,
+   "rcept_no": "20231114002283"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 13588987082,
+    "capex_int": 13523445,
+    "cff": 22406758934,
+    "cfi": -13798450728,
+    "cfo": 4384554447,
+    "div_paid": 0
+   },
+   "derived": [
+    "revenue",
+    "cogs",
+    "gross",
+    "sga",
+    "op",
+    "pbt",
+    "ni",
+    "ni_owner",
+    "ni_minority"
+   ],
+   "end": "2023-12",
+   "fy": 2023,
+   "is": {
+    "cogs": 25671063886,
+    "gross": 30868552337,
+    "ni": -2200027008,
+    "ni_minority": -366808983,
+    "ni_owner": -1833218025,
+    "op": 3543193849,
+    "pbt": -2872204118,
+    "revenue": 56539616223,
+    "sga": 27325358488
+   },
+   "known": "20240318",
+   "label": "2023.12",
+   "q": 4,
+   "rcept_no": "20240318000762"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 8826701651,
+    "capex_int": 324751784,
+    "cff": -12925068939,
+    "cfi": -9067184416,
+    "cfo": 8095964551
+   },
+   "derived": [],
+   "end": "2024-03",
+   "fy": 2024,
+   "is": {
+    "cogs": 28730584581,
+    "eps": 318,
+    "gross": 32077210332,
+    "ni": 2857269832,
+    "ni_minority": -363115479,
+    "ni_owner": 3220385311,
+    "op": 6936194618,
+    "pbt": 3163340758,
+    "revenue": 60807794913,
+    "sga": 25141015714
+   },
+   "known": "20240516",
+   "label": "2024.03",
+   "q": 1,
+   "rcept_no": "20240516000958"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 7543370486,
+    "capex_int": 1198711528,
+    "cff": 15831763658,
+    "cfi": -8510806046,
+    "cfo": -4108649986
+   },
+   "derived": [],
+   "end": "2024-06",
+   "fy": 2024,
+   "is": {
+    "cogs": 27880278898,
+    "eps": -122,
+    "gross": 33042003021,
+    "ni": -1772716564,
+    "ni_minority": -507103735,
+    "ni_owner": -1265612829,
+    "op": 4699072755,
+    "pbt": -1048181004,
+    "revenue": 60922281919,
+    "sga": 28342930266
+   },
+   "known": "20240814",
+   "label": "2024.06",
+   "q": 2,
+   "rcept_no": "20240814004031"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 3600250073,
+    "capex_int": -297883680,
+    "cff": -4034303394,
+    "cfi": -7790815454,
+    "cfo": 10658338668,
+    "div_paid": 0
+   },
+   "derived": [],
+   "end": "2024-09",
+   "fy": 2024,
+   "is": {
+    "cogs": 37684761236,
+    "eps": 657,
+    "gross": 44042282738,
+    "ni": 6480351732,
+    "ni_minority": -78101046,
+    "ni_owner": 6558452778,
+    "op": 13240749497,
+    "pbt": 9077108511,
+    "revenue": 81727043974,
+    "sga": 30801533241
+   },
+   "known": "20241114",
+   "label": "2024.09",
+   "q": 3,
+   "rcept_no": "20241114002156"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 5558645526,
+    "capex_int": 762200409,
+    "cff": 8406776883,
+    "cfi": -3838877884,
+    "cfo": 5615318308,
+    "div_paid": 0
+   },
+   "derived": [
+    "revenue",
+    "cogs",
+    "gross",
+    "sga",
+    "op",
+    "pbt",
+    "ni",
+    "ni_owner",
+    "ni_minority"
+   ],
+   "end": "2024-12",
+   "fy": 2024,
+   "is": {
+    "cogs": 33736858803,
+    "gross": 38502110528,
+    "ni": -3405382737,
+    "ni_minority": -1196827243,
+    "ni_owner": -2208555494,
+    "op": 6095635519,
+    "pbt": -2709705616,
+    "revenue": 72238969331,
+    "sga": 32406475009
+   },
+   "known": "20250317",
+   "label": "2024.12",
+   "q": 4,
+   "rcept_no": "20250814002354"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 3206407691,
+    "capex_int": 105043609,
+    "cff": -2718312466,
+    "cfi": -2398929217,
+    "cfo": 5482540483
+   },
+   "derived": [],
+   "end": "2025-03",
+   "fy": 2025,
+   "is": {
+    "cogs": 37290634080,
+    "eps": 475,
+    "gross": 42456196644,
+    "ni": 3948110985,
+    "ni_minority": -682237368,
+    "ni_owner": 4630348353,
+    "op": 9726000376,
+    "pbt": 6518482765,
+    "revenue": 79746830724,
+    "sga": 32730196268
+   },
+   "known": "20250515",
+   "label": "2025.03",
+   "q": 1,
+   "rcept_no": "20250515001924"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 3271361859,
+    "capex_int": -79343609,
+    "cff": -16724165462,
+    "cfi": -2472865228,
+    "cfo": 17685550639
+   },
+   "derived": [],
+   "end": "2025-06",
+   "fy": 2025,
+   "is": {
+    "cogs": 35693723164,
+    "eps": 663,
+    "gross": 41359488147,
+    "ni": 6837127487,
+    "ni_minority": 578515738,
+    "ni_owner": 6258611749,
+    "op": 8774321895,
+    "pbt": 8457311987,
+    "revenue": 77053211311,
+    "sga": 32585166252
+   },
+   "known": "20250814",
+   "label": "2025.06",
+   "q": 2,
+   "rcept_no": "20250814002495"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 2544645574,
+    "capex_int": 22291376,
+    "cff": -1395342967,
+    "cfi": -629582165,
+    "cfo": 468421191,
+    "div_paid": 0
+   },
+   "derived": [],
+   "end": "2025-09",
+   "fy": 2025,
+   "is": {
+    "cogs": 35608742292,
+    "eps": 949,
+    "gross": 52242864593,
+    "ni": 8661090509,
+    "ni_minority": -329473961,
+    "ni_owner": 8990564470,
+    "op": 16654325418,
+    "pbt": 12412797012,
+    "revenue": 87851606885,
+    "sga": 35588539175
+   },
+   "known": "20251114",
+   "label": "2025.09",
+   "q": 3,
+   "rcept_no": "20251114001757"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": -616444218,
+    "capex_int": 7690961,
+    "cff": 16130450203,
+    "cfi": -2429276792,
+    "cfo": -3935269210,
+    "div_paid": 0
+   },
+   "derived": [
+    "revenue",
+    "cogs",
+    "gross",
+    "sga",
+    "op",
+    "pbt",
+    "ni",
+    "ni_owner",
+    "ni_minority"
+   ],
+   "end": "2025-12",
+   "fy": 2025,
+   "is": {
+    "cogs": 36601172139,
+    "gross": 46827150239,
+    "ni": 1572962739,
+    "ni_minority": -319469084,
+    "ni_owner": 1892431823,
+    "op": 9325326458,
+    "pbt": 3852684982,
+    "revenue": 83428322378,
+    "sga": 37501823781
+   },
+   "known": "20260320",
+   "label": "2025.12",
+   "q": 4,
+   "rcept_no": "20260320000852"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 1147014755,
+    "capex_int": 240287,
+    "cff": -670247782,
+    "cfi": -8299183264,
+    "cfo": -1152721
+   },
+   "derived": [],
+   "end": "2026-03",
+   "fy": 2026,
+   "is": {
+    "cogs": 45323075806,
+    "eps": 846,
+    "gross": 52132038839,
+    "ni": 7298567764,
+    "ni_minority": -911218529,
+    "ni_owner": 8209786293,
+    "op": 14193070945,
+    "pbt": 10736513324,
+    "revenue": 97455114645,
+    "sga": 37938967894
+   },
+   "known": "20260515",
+   "label": "2026.03",
+   "q": 1,
+   "rcept_no": "20260515001412"
+  },
+  {
+   "basis": "CFS",
+   "cf": {
+    "capex": 1570507278,
+    "capex_int": 45003064,
+    "cff": -8602350126,
+    "cfi": -8707288074,
+    "cfo": 21595004139
+   },
+   "derived": [],
+   "end": "2026-06",
+   "fy": 2026,
+   "is": {
+    "cogs": 37851680804,
+    "eps": 1034,
+    "gross": 53313400153,
+    "ni": 10487551585,
+    "ni_minority": 444516737,
+    "ni_owner": 10043034848,
+    "op": 12176952581,
+    "pbt": 13668737731,
+    "revenue": 91165080957,
+    "sga": 41136447572
+   },
+   "known": "20260814",
+   "label": "2026.06",
+   "q": 2,
+   "rcept_no": "20260814002692"
+  }
+ ],
+ "shares": [
+  {
+   "end": "2021-12",
+   "float": 10253714,
+   "issued": 10762890,
+   "reprt": "사업보고서",
+   "se": "보통주",
+   "treasury": 509176
+  },
+  {
+   "end": "2022-12",
+   "float": 10136890,
+   "issued": 10762890,
+   "reprt": "사업보고서",
+   "se": "보통주",
+   "treasury": 626000
+  },
+  {
+   "end": "2023-12",
+   "float": 10027890,
+   "issued": 10762890,
+   "reprt": "사업보고서",
+   "se": "보통주",
+   "treasury": 735000
+  },
+  {
+   "end": "2024-12",
+   "float": 9883490,
+   "issued": 10762890,
+   "reprt": "사업보고서",
+   "se": "보통주",
+   "treasury": 879400
+  },
+  {
+   "end": "2025-12",
+   "float": 9709731,
+   "issued": 10762890,
+   "reprt": "사업보고서",
+   "se": "보통주",
+   "treasury": 1053159
+  },
+  {
+   "end": "2026-06",
+   "float": 9709731,
+   "issued": 10762890,
+   "reprt": "반기보고서",
+   "se": "보통주",
+   "treasury": 1053159
+  }
+ ],
+ "treasury": [
+  {
+   "acquired": null,
+   "begin": 509176,
+   "burned": null,
+   "disposed": null,
+   "end": "2021-12",
+   "end_qty": 509176,
+   "reprt": "사업보고서"
+  },
+  {
+   "acquired": 116824,
+   "begin": 509176,
+   "burned": null,
+   "disposed": null,
+   "end": "2022-12",
+   "end_qty": 626000,
+   "reprt": "사업보고서"
+  },
+  {
+   "acquired": 109000,
+   "begin": 626000,
+   "burned": null,
+   "disposed": null,
+   "end": "2023-12",
+   "end_qty": 735000,
+   "reprt": "사업보고서"
+  },
+  {
+   "acquired": 144400,
+   "begin": 735000,
+   "burned": null,
+   "disposed": null,
+   "end": "2024-12",
+   "end_qty": 879400,
+   "reprt": "사업보고서"
+  },
+  {
+   "acquired": 450600,
+   "begin": 879400,
+   "burned": null,
+   "disposed": 276841,
+   "end": "2025-12",
+   "end_qty": 1053159,
+   "reprt": "사업보고서"
+  },
+  {
+   "acquired": null,
+   "begin": 1053159,
+   "burned": null,
+   "disposed": null,
+   "end": "2026-06",
+   "end_qty": 1053159,
+   "reprt": "반기보고서"
+  }
+ ],
+ "unit": "원",
+ "valuation": {
+  "eq_basis": "지배주주 지분",
+  "five_year": {
+   "pbr": {
+    "max": 1.5446604492451257,
+    "median": 0.6536385873399678,
+    "min": 0.41529924728145257,
+    "n": 60,
+    "p25": 0.5349095911654214,
+    "p75": 0.9389615196733301
+   },
+   "per": {
+    "max": 24.791400972664412,
+    "median": 10.783883028942569,
+    "min": 4.562818007609739,
+    "n": 55,
+    "p25": 8.914859438116242,
+    "p75": 14.077416088723638
+   },
+   "psr": {
+    "max": 0.7532767928720076,
+    "median": 0.37042941730212703,
+    "min": 0.23228184145875042,
+    "n": 55,
+    "p25": 0.3027965233810833,
+    "p75": 0.5028787099239315
+   }
+  },
+  "ni_basis": "지배주주 순이익",
+  "now": {
+   "cap": 147666850800,
+   "close": 13720,
+   "d": "2026-10-22",
+   "eq": 193498052894,
+   "eq_at": "2026.06",
+   "ni_ttm": 29135817434,
+   "pbr": 0.7631438590283555,
+   "per": 5.068224055649126,
+   "psr": 0.41029952644609513,
+   "q": "2026.06",
+   "rev_ttm": 359900124865,
+   "shares": 10762890
+  },
+  "rows": [
+   {
+    "cap": 119468079000,
+    "close": 11100,
+    "d": "2021-05-31",
+    "eq": 113090370560,
+    "eq_at": "2021.03",
+    "ni_ttm": null,
+    "pbr": 1.0563947965544627,
+    "per": null,
+    "psr": null,
+    "q": "2021.03",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 120006223500,
+    "close": 11150,
+    "d": "2021-06-30",
+    "eq": 113090370560,
+    "eq_at": "2021.03",
+    "ni_ttm": null,
+    "pbr": 1.0611533316740773,
+    "per": null,
+    "psr": null,
+    "q": "2021.03",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 117315501000,
+    "close": 10900,
+    "d": "2021-07-30",
+    "eq": 113090370560,
+    "eq_at": "2021.03",
+    "ni_ttm": null,
+    "pbr": 1.037360656076004,
+    "per": null,
+    "psr": null,
+    "q": "2021.03",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 113010345000,
+    "close": 10500,
+    "d": "2021-08-31",
+    "eq": 118333823031,
+    "eq_at": "2021.06",
+    "ni_ttm": null,
+    "pbr": 0.9550130478789196,
+    "per": null,
+    "psr": null,
+    "q": "2021.06",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 109781478000,
+    "close": 10200,
+    "d": "2021-09-30",
+    "eq": 118333823031,
+    "eq_at": "2021.06",
+    "ni_ttm": null,
+    "pbr": 0.9277269607966647,
+    "per": null,
+    "psr": null,
+    "q": "2021.06",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 110857767000,
+    "close": 10300,
+    "d": "2021-10-29",
+    "eq": 118333823031,
+    "eq_at": "2021.06",
+    "ni_ttm": null,
+    "pbr": 0.9368223231574163,
+    "per": null,
+    "psr": null,
+    "q": "2021.06",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 96973638900,
+    "close": 9010,
+    "d": "2021-11-30",
+    "eq": 124274252323,
+    "eq_at": "2021.09",
+    "ni_ttm": null,
+    "pbr": 0.7803196324847463,
+    "per": null,
+    "psr": null,
+    "q": "2021.09",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 104184775200,
+    "close": 9680,
+    "d": "2021-12-30",
+    "eq": 124274252323,
+    "eq_at": "2021.09",
+    "ni_ttm": null,
+    "pbr": 0.8383456206939339,
+    "per": null,
+    "psr": null,
+    "q": "2021.09",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 106552611000,
+    "close": 9900,
+    "d": "2022-01-28",
+    "eq": 124274252323,
+    "eq_at": "2021.09",
+    "ni_ttm": null,
+    "pbr": 0.8573989302551598,
+    "per": null,
+    "psr": null,
+    "q": "2021.09",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 116777356500,
+    "close": 10850,
+    "d": "2022-02-28",
+    "eq": 124274252323,
+    "eq_at": "2021.09",
+    "ni_ttm": null,
+    "pbr": 0.9396745851786347,
+    "per": null,
+    "psr": null,
+    "q": "2021.09",
+    "rev_ttm": null,
+    "shares": 10762890
+   },
+   {
+    "cap": 115162923000,
+    "close": 10700,
+    "d": "2022-03-31",
+    "eq": 121889840574,
+    "eq_at": "2021.12",
+    "ni_ttm": 9484408507,
+    "pbr": 0.9448114991182054,
+    "per": 12.142341076410155,
+    "psr": 0.6467074463860679,
+    "q": "2021.12",
+    "rev_ttm": 178075764619,
+    "shares": 10762890
+   },
+   {
+    "cap": 113010345000,
+    "close": 10500,
+    "d": "2022-04-29",
+    "eq": 121889840574,
+    "eq_at": "2021.12",
+    "ni_ttm": 9484408507,
+    "pbr": 0.9271514710973043,
+    "per": 11.915381430122114,
+    "psr": 0.6346194567339919,
+    "q": "2021.12",
+    "rev_ttm": 178075764619,
+    "shares": 10762890
+   },
+   {
+    "cap": 99556732500,
+    "close": 9250,
+    "d": "2022-05-31",
+    "eq": 127217514134,
+    "eq_at": "2022.03",
+    "ni_ttm": 13279273214,
+    "pbr": 0.7825709626359739,
+    "per": 7.497152208227772,
+    "psr": 0.5028787099239315,
+    "q": "2022.03",
+    "rev_ttm": 197973647592,
+    "shares": 10762890
+   },
+   {
+    "cap": 84811573200,
+    "close": 7880,
+    "d": "2022-06-30",
+    "eq": 127217514134,
+    "eq_at": "2022.03",
+    "ni_ttm": 13279273214,
+    "pbr": 0.6666658578996189,
+    "per": 6.386763178468631,
+    "psr": 0.42839829558925185,
+    "q": "2022.03",
+    "rev_ttm": 197973647592,
+    "shares": 10762890
+   },
+   {
+    "cap": 91161678300,
+    "close": 8470,
+    "d": "2022-07-29",
+    "eq": 127217514134,
+    "eq_at": "2022.03",
+    "ni_ttm": 13279273214,
+    "pbr": 0.7165811949758594,
+    "per": 6.864959913912349,
+    "psr": 0.4604738024925081,
+    "q": "2022.03",
+    "rev_ttm": 197973647592,
+    "shares": 10762890
+   },
+   {
+    "cap": 89977760400,
+    "close": 8360,
+    "d": "2022-08-31",
+    "eq": 131543394106,
+    "eq_at": "2022.06",
+    "ni_ttm": 9633119142,
+    "pbr": 0.6840158033895212,
+    "per": 9.340459624100433,
+    "psr": 0.4196192315238187,
+    "q": "2022.06",
+    "rev_ttm": 214427160722,
+    "shares": 10762890
+   },
+   {
+    "cap": 79430128200,
+    "close": 7380,
+    "d": "2022-09-30",
+    "eq": 131543394106,
+    "eq_at": "2022.06",
+    "ni_ttm": 9633119142,
+    "pbr": 0.6038321326572568,
+    "per": 8.245525361945118,
+    "psr": 0.37042941730212703,
+    "q": "2022.06",
+    "rev_ttm": 214427160722,
+    "shares": 10762890
+   },
+   {
+    "cap": 82336108500,
+    "close": 7650,
+    "d": "2022-10-31",
+    "eq": 131543394106,
+    "eq_at": "2022.06",
+    "ni_ttm": 9633119142,
+    "pbr": 0.6259235521447174,
+    "per": 8.5471909239675,
+    "psr": 0.3839817130570829,
+    "q": "2022.06",
+    "rev_ttm": 214427160722,
+    "shares": 10762890
+   },
+   {
+    "cap": 94175287500,
+    "close": 8750,
+    "d": "2022-11-30",
+    "eq": 132384802818,
+    "eq_at": "2022.09",
+    "ni_ttm": 6926666085,
+    "pbr": 0.7113753655657161,
+    "per": 13.5960484227673,
+    "psr": 0.4202695464856594,
+    "q": "2022.09",
+    "rev_ttm": 224083063566,
+    "shares": 10762890
+   },
+   {
+    "cap": 86856522300,
+    "close": 8070,
+    "d": "2022-12-29",
+    "eq": 132384802818,
+    "eq_at": "2022.09",
+    "ni_ttm": 6926666085,
+    "pbr": 0.6560913371560376,
+    "per": 12.539441231055099,
+    "psr": 0.38760859887305954,
+    "q": "2022.09",
+    "rev_ttm": 224083063566,
+    "shares": 10762890
+   },
+   {
+    "cap": 87825182400,
+    "close": 8160,
+    "d": "2023-01-31",
+    "eq": 132384802818,
+    "eq_at": "2022.09",
+    "ni_ttm": 6926666085,
+    "pbr": 0.6634083409161422,
+    "per": 12.67928630054642,
+    "psr": 0.39193137135119777,
+    "q": "2022.09",
+    "rev_ttm": 224083063566,
+    "shares": 10762890
+   },
+   {
+    "cap": 85564975500,
+    "close": 7950,
+    "d": "2023-02-28",
+    "eq": 132384802818,
+    "eq_at": "2022.09",
+    "ni_ttm": 6926666085,
+    "pbr": 0.646335332142565,
+    "per": 12.352981138400004,
+    "psr": 0.38184490223554196,
+    "q": "2022.09",
+    "rev_ttm": 224083063566,
+    "shares": 10762890
+   },
+   {
+    "cap": 87502295700,
+    "close": 8130,
+    "d": "2023-03-31",
+    "eq": 128258358194,
+    "eq_at": "2022.12",
+    "ni_ttm": 7336711288,
+    "pbr": 0.6822346467872797,
+    "per": 11.926637462635288,
+    "psr": 0.37766276901749457,
+    "q": "2022.12",
+    "rev_ttm": 231694259743,
+    "shares": 10762890
+   },
+   {
+    "cap": 83520026400,
+    "close": 7760,
+    "d": "2023-04-28",
+    "eq": 128258358194,
+    "eq_at": "2022.12",
+    "ni_ttm": 7336711288,
+    "pbr": 0.651185837523898,
+    "per": 11.38385076384377,
+    "psr": 0.36047516452346345,
+    "q": "2022.12",
+    "rev_ttm": 231694259743,
+    "shares": 10762890
+   },
+   {
+    "cap": 82336108500,
+    "close": 7650,
+    "d": "2023-05-31",
+    "eq": 132684119237,
+    "eq_at": "2023.03",
+    "ni_ttm": 4690508512,
+    "pbr": 0.6205422998130732,
+    "per": 17.5537701913033,
+    "psr": 0.3584228116529373,
+    "q": "2023.03",
+    "rev_ttm": 229717824377,
+    "shares": 10762890
+   },
+   {
+    "cap": 82658995200,
+    "close": 7680,
+    "d": "2023-06-30",
+    "eq": 132684119237,
+    "eq_at": "2023.03",
+    "ni_ttm": 4690508512,
+    "pbr": 0.6229757990280264,
+    "per": 17.622608505779,
+    "psr": 0.35982839130647826,
+    "q": "2023.03",
+    "rev_ttm": 229717824377,
+    "shares": 10762890
+   },
+   {
+    "cap": 77385179100,
+    "close": 7190,
+    "d": "2023-07-31",
+    "eq": 132684119237,
+    "eq_at": "2023.03",
+    "ni_ttm": 4690508512,
+    "pbr": 0.5832286451837904,
+    "per": 16.49824936934258,
+    "psr": 0.336870590298643,
+    "q": "2023.03",
+    "rev_ttm": 229717824377,
+    "shares": 10762890
+   },
+   {
+    "cap": 77815694700,
+    "close": 7230,
+    "d": "2023-08-31",
+    "eq": 134242762734,
+    "eq_at": "2023.06",
+    "ni_ttm": 4269153808,
+    "pbr": 0.5796639842267745,
+    "per": 18.227428244487367,
+    "psr": 0.3396540308226877,
+    "q": "2023.06",
+    "rev_ttm": 229102815331,
+    "shares": 10762890
+   },
+   {
+    "cap": 70819816200,
+    "close": 6580,
+    "d": "2023-09-27",
+    "eq": 134242762734,
+    "eq_at": "2023.06",
+    "ni_ttm": 4269153808,
+    "pbr": 0.5275503480238141,
+    "per": 16.588724460404823,
+    "psr": 0.30911805294789557,
+    "q": "2023.06",
+    "rev_ttm": 229102815331,
+    "shares": 10762890
+   },
+   {
+    "cap": 72111363000,
+    "close": 6700,
+    "d": "2023-10-31",
+    "eq": 134242762734,
+    "eq_at": "2023.06",
+    "ni_ttm": 4269153808,
+    "pbr": 0.5371713270151298,
+    "per": 16.89125438977391,
+    "psr": 0.3147554642478572,
+    "q": "2023.06",
+    "rev_ttm": 229102815331,
+    "shares": 10762890
+   },
+   {
+    "cap": 75986003400,
+    "close": 7060,
+    "d": "2023-11-30",
+    "eq": 139401086449,
+    "eq_at": "2023.09",
+    "ni_ttm": 7010819455,
+    "pbr": 0.5450890329165371,
+    "per": 10.83839113069843,
+    "psr": 0.3243231337302802,
+    "q": "2023.09",
+    "rev_ttm": 234291037232,
+    "shares": 10762890
+   },
+   {
+    "cap": 77492808000,
+    "close": 7200,
+    "d": "2023-12-28",
+    "eq": 139401086449,
+    "eq_at": "2023.09",
+    "ni_ttm": 7010819455,
+    "pbr": 0.5558981638808878,
+    "per": 11.053316733856756,
+    "psr": 0.33075447065977587,
+    "q": "2023.09",
+    "rev_ttm": 234291037232,
+    "shares": 10762890
+   },
+   {
+    "cap": 75770745600,
+    "close": 7040,
+    "d": "2024-01-31",
+    "eq": 139401086449,
+    "eq_at": "2023.09",
+    "ni_ttm": 7010819455,
+    "pbr": 0.5435448713502014,
+    "per": 10.807687473104384,
+    "psr": 0.32340437131178085,
+    "q": "2023.09",
+    "rev_ttm": 234291037232,
+    "shares": 10762890
+   },
+   {
+    "cap": 75555487800,
+    "close": 7020,
+    "d": "2024-02-29",
+    "eq": 139401086449,
+    "eq_at": "2023.09",
+    "ni_ttm": 7010819455,
+    "pbr": 0.5420007097838655,
+    "per": 10.776983815510336,
+    "psr": 0.3224856088932815,
+    "q": "2023.09",
+    "rev_ttm": 234291037232,
+    "shares": 10762890
+   },
+   {
+    "cap": 71896105200,
+    "close": 6680,
+    "d": "2024-03-29",
+    "eq": 134597661314,
+    "eq_at": "2023.12",
+    "ni_ttm": 7113323597,
+    "pbr": 0.5341556792155185,
+    "per": 10.10724511820631,
+    "psr": 0.3091573388593938,
+    "q": "2023.12",
+    "rev_ttm": 232555065538,
+    "shares": 10762890
+   },
+   {
+    "cap": 74371569900,
+    "close": 6910,
+    "d": "2024-04-30",
+    "eq": 134597661314,
+    "eq_at": "2023.12",
+    "ni_ttm": 7113323597,
+    "pbr": 0.5525472669729391,
+    "per": 10.455249066887067,
+    "psr": 0.31980197777221725,
+    "q": "2023.12",
+    "rev_ttm": 232555065538,
+    "shares": 10762890
+   },
+   {
+    "cap": 71573218500,
+    "close": 6650,
+    "d": "2024-05-31",
+    "eq": 141096284240,
+    "eq_at": "2024.03",
+    "ni_ttm": 6627073885,
+    "pbr": 0.5072650841623609,
+    "per": 10.80012381663676,
+    "psr": 0.2988114719928016,
+    "q": "2024.03",
+    "rev_ttm": 239526340882,
+    "shares": 10762890
+   },
+   {
+    "cap": 71465589600,
+    "close": 6640,
+    "d": "2024-06-28",
+    "eq": 141096284240,
+    "eq_at": "2024.03",
+    "ni_ttm": 6627073885,
+    "pbr": 0.5065022795245228,
+    "per": 10.783883028942569,
+    "psr": 0.29836213143341395,
+    "q": "2024.03",
+    "rev_ttm": 239526340882,
+    "shares": 10762890
+   },
+   {
+    "cap": 68559609300,
+    "close": 6370,
+    "d": "2024-07-31",
+    "eq": 141096284240,
+    "eq_at": "2024.03",
+    "ni_ttm": 6627073885,
+    "pbr": 0.4859065543028931,
+    "per": 10.345381761199423,
+    "psr": 0.2862299363299468,
+    "q": "2024.03",
+    "rev_ttm": 239526340882,
+    "shares": 10762890
+   },
+   {
+    "cap": 60056926200,
+    "close": 5580,
+    "d": "2024-08-30",
+    "eq": 140982970673,
+    "eq_at": "2024.06",
+    "ni_ttm": 4159152591,
+    "pbr": 0.42598709555707814,
+    "per": 14.439702532183436,
+    "psr": 0.24748325309754776,
+    "q": "2024.06",
+    "rev_ttm": 242670667402,
+    "shares": 10762890
+   },
+   {
+    "cap": 58550121600,
+    "close": 5440,
+    "d": "2024-09-30",
+    "eq": 140982970673,
+    "eq_at": "2024.06",
+    "ni_ttm": 4159152591,
+    "pbr": 0.41529924728145257,
+    "per": 14.077416088723638,
+    "psr": 0.24127399585137274,
+    "q": "2024.06",
+    "rev_ttm": 242670667402,
+    "shares": 10762890
+   },
+   {
+    "cap": 61240844100,
+    "close": 5690,
+    "d": "2024-10-31",
+    "eq": 140982970673,
+    "eq_at": "2024.06",
+    "ni_ttm": 4159152591,
+    "pbr": 0.434384690630784,
+    "per": 14.724356166330422,
+    "psr": 0.2523619552195424,
+    "q": "2024.06",
+    "rev_ttm": 242670667402,
+    "shares": 10762890
+   },
+   {
+    "cap": 65223113400,
+    "close": 6060,
+    "d": "2024-11-29",
+    "eq": 146403886941,
+    "eq_at": "2024.09",
+    "ni_ttm": 6680007235,
+    "pbr": 0.4455012415502641,
+    "per": 9.763928556583368,
+    "psr": 0.2508612767425809,
+    "q": "2024.09",
+    "rev_ttm": 259996737029,
+    "shares": 10762890
+   },
+   {
+    "cap": 64362082200,
+    "close": 5980,
+    "d": "2024-12-30",
+    "eq": 146403886941,
+    "eq_at": "2024.09",
+    "ni_ttm": 6680007235,
+    "pbr": 0.4396200370413497,
+    "per": 9.635031809961804,
+    "psr": 0.24754957671957653,
+    "q": "2024.09",
+    "rev_ttm": 259996737029,
+    "shares": 10762890
+   },
+   {
+    "cap": 69528269400,
+    "close": 6460,
+    "d": "2025-01-31",
+    "eq": 146403886941,
+    "eq_at": "2024.09",
+    "ni_ttm": 6680007235,
+    "pbr": 0.474907264094836,
+    "per": 10.40841228969118,
+    "psr": 0.26741977685760276,
+    "q": "2024.09",
+    "rev_ttm": 259996737029,
+    "shares": 10762890
+   },
+   {
+    "cap": 74156312100,
+    "close": 6890,
+    "d": "2025-02-28",
+    "eq": 146403886941,
+    "eq_at": "2024.09",
+    "ni_ttm": 6680007235,
+    "pbr": 0.5065187383302507,
+    "per": 11.10123230278208,
+    "psr": 0.2852201644812512,
+    "q": "2024.09",
+    "rev_ttm": 259996737029,
+    "shares": 10762890
+   },
+   {
+    "cap": 64039195500,
+    "close": 5950,
+    "d": "2025-03-31",
+    "eq": 150184831734,
+    "eq_at": "2024.12",
+    "ni_ttm": 6304669766,
+    "pbr": 0.42640255184640136,
+    "per": 10.157422652864765,
+    "psr": 0.23228184145875042,
+    "q": "2024.12",
+    "rev_ttm": 275696090137,
+    "shares": 10762890
+   },
+   {
+    "cap": 66622289100,
+    "close": 6190,
+    "d": "2025-04-30",
+    "eq": 150184831734,
+    "eq_at": "2024.12",
+    "ni_ttm": 6304669766,
+    "pbr": 0.44360198250911337,
+    "per": 10.567133818694606,
+    "psr": 0.24165119304700253,
+    "q": "2024.12",
+    "rev_ttm": 275696090137,
+    "shares": 10762890
+   },
+   {
+    "cap": 68774867100,
+    "close": 6390,
+    "d": "2025-05-30",
+    "eq": 151511352778,
+    "eq_at": "2025.03",
+    "ni_ttm": 7714632808,
+    "pbr": 0.45392550352825023,
+    "per": 8.914859438116242,
+    "psr": 0.2334238556204532,
+    "q": "2025.03",
+    "rev_ttm": 294635125948,
+    "shares": 10762890
+   },
+   {
+    "cap": 184475934600,
+    "close": 17140,
+    "d": "2025-06-30",
+    "eq": 151511352778,
+    "eq_at": "2025.03",
+    "ni_ttm": 7714632808,
+    "pbr": 1.2175716949098918,
+    "per": 23.912471168906475,
+    "psr": 0.6261165704748933,
+    "q": "2025.03",
+    "rev_ttm": 294635125948,
+    "shares": 10762890
+   },
+   {
+    "cap": 191256555300,
+    "close": 17770,
+    "d": "2025-07-31",
+    "eq": 151511352778,
+    "eq_at": "2025.03",
+    "ni_ttm": 7714632808,
+    "pbr": 1.2623249135676067,
+    "per": 24.791400972664412,
+    "psr": 0.649130190043107,
+    "q": "2025.03",
+    "rev_ttm": 294635125948,
+    "shares": 10762890
+   },
+   {
+    "cap": 219562956000,
+    "close": 20400,
+    "d": "2025-08-29",
+    "eq": 151549719302,
+    "eq_at": "2025.06",
+    "ni_ttm": 15238857386,
+    "pbr": 1.4487849730850832,
+    "per": 14.408098352683146,
+    "psr": 0.7065216815902967,
+    "q": "2025.06",
+    "rev_ttm": 310766055340,
+    "shares": 10762890
+   },
+   {
+    "cap": 228173268000,
+    "close": 21200,
+    "d": "2025-09-30",
+    "eq": 151549719302,
+    "eq_at": "2025.06",
+    "ni_ttm": 15238857386,
+    "pbr": 1.5056000700688121,
+    "per": 14.97312181749425,
+    "psr": 0.7342284142016808,
+    "q": "2025.06",
+    "rev_ttm": 310766055340,
+    "shares": 10762890
+   },
+   {
+    "cap": 234092857500,
+    "close": 21750,
+    "d": "2025-10-31",
+    "eq": 151549719302,
+    "eq_at": "2025.06",
+    "ni_ttm": 15238857386,
+    "pbr": 1.5446604492451257,
+    "per": 15.361575449551884,
+    "psr": 0.7532767928720076,
+    "q": "2025.06",
+    "rev_ttm": 310766055340,
+    "shares": 10762890
+   },
+   {
+    "cap": 178125829500,
+    "close": 16550,
+    "d": "2025-11-28",
+    "eq": 163239468891,
+    "eq_at": "2025.09",
+    "ni_ttm": 17670969078,
+    "pbr": 1.091193390361617,
+    "per": 10.080139278935363,
+    "psr": 0.5621050900248225,
+    "q": "2025.09",
+    "rev_ttm": 316890618251,
+    "shares": 10762890
+   },
+   {
+    "cap": 155200873800,
+    "close": 14420,
+    "d": "2025-12-30",
+    "eq": 163239468891,
+    "eq_at": "2025.09",
+    "ni_ttm": 17670969078,
+    "pbr": 0.9507558120250463,
+    "per": 8.782816217658485,
+    "psr": 0.48976165547782113,
+    "q": "2025.09",
+    "rev_ttm": 316890618251,
+    "shares": 10762890
+   },
+   {
+    "cap": 158214483000,
+    "close": 14700,
+    "d": "2026-01-30",
+    "eq": 163239468891,
+    "eq_at": "2025.09",
+    "ni_ttm": 17670969078,
+    "pbr": 0.9692170899284454,
+    "per": 8.953356338389717,
+    "psr": 0.4992715905356429,
+    "q": "2025.09",
+    "rev_ttm": 316890618251,
+    "shares": 10762890
+   },
+   {
+    "cap": 146267675100,
+    "close": 13590,
+    "d": "2026-02-27",
+    "eq": 163239468891,
+    "eq_at": "2025.09",
+    "ni_ttm": 17670969078,
+    "pbr": 0.8960313096685423,
+    "per": 8.27728657406233,
+    "psr": 0.46157149084213517,
+    "q": "2025.09",
+    "rev_ttm": 316890618251,
+    "shares": 10762890
+   },
+   {
+    "cap": 99341474700,
+    "close": 9230,
+    "d": "2026-03-31",
+    "eq": 175573907831,
+    "eq_at": "2025.12",
+    "ni_ttm": 21771956395,
+    "pbr": 0.5658100108794177,
+    "per": 4.562818007609739,
+    "psr": 0.3027965233810833,
+    "q": "2025.12",
+    "rev_ttm": 328079971298,
+    "shares": 10762890
+   },
+   {
+    "cap": 179525005200,
+    "close": 16680,
+    "d": "2026-04-30",
+    "eq": 175573907831,
+    "eq_at": "2025.12",
+    "ni_ttm": 21771956395,
+    "pbr": 1.022503898317301,
+    "per": 8.245699281357577,
+    "psr": 0.5471989176594225,
+    "q": "2025.12",
+    "rev_ttm": 328079971298,
+    "shares": 10762890
+   },
+   {
+    "cap": 189749750700,
+    "close": 17630,
+    "d": "2026-05-29",
+    "eq": 182989619645,
+    "eq_at": "2026.03",
+    "ni_ttm": 25351394335,
+    "pbr": 1.0369427023681161,
+    "per": 7.484785577968487,
+    "psr": 0.5487455049039324,
+    "q": "2026.03",
+    "rev_ttm": 345788255219,
+    "shares": 10762890
+   },
+   {
+    "cap": 178879231800,
+    "close": 16620,
+    "d": "2026-06-30",
+    "eq": 182989619645,
+    "eq_at": "2026.03",
+    "ni_ttm": 25351394335,
+    "pbr": 0.9775375900940493,
+    "per": 7.055991849451858,
+    "psr": 0.5173085814806215,
+    "q": "2026.03",
+    "rev_ttm": 345788255219,
+    "shares": 10762890
+   },
+   {
+    "cap": 236245435500,
+    "close": 21950,
+    "d": "2026-07-31",
+    "eq": 182989619645,
+    "eq_at": "2026.03",
+    "ni_ttm": 25351394335,
+    "pbr": 1.2910318954611542,
+    "per": 9.318834000930703,
+    "psr": 0.6832083852887871,
+    "q": "2026.03",
+    "rev_ttm": 345788255219,
+    "shares": 10762890
+   },
+   {
+    "cap": 190610781900,
+    "close": 17710,
+    "d": "2026-08-31",
+    "eq": 193498052894,
+    "eq_at": "2026.06",
+    "ni_ttm": 29135817434,
+    "pbr": 0.9850785527253771,
+    "per": 6.542146357547087,
+    "psr": 0.5296213275043983,
+    "q": "2026.06",
+    "rev_ttm": 359900124865,
+    "shares": 10762890
+   },
+   {
+    "cap": 166071392700,
+    "close": 15430,
+    "d": "2026-09-30",
+    "eq": 193498052894,
+    "eq_at": "2026.06",
+    "ni_ttm": 29135817434,
+    "pbr": 0.8582587277556505,
+    "per": 5.699905042176823,
+    "psr": 0.4614374411853679,
+    "q": "2026.06",
+    "rev_ttm": 359900124865,
+    "shares": 10762890
+   },
+   {
+    "cap": 147666850800,
+    "close": 13720,
+    "d": "2026-10-22",
+    "eq": 193498052894,
+    "eq_at": "2026.06",
+    "ni_ttm": 29135817434,
+    "pbr": 0.7631438590283555,
+    "per": 5.068224055649126,
+    "psr": 0.41029952644609513,
+    "q": "2026.06",
+    "rev_ttm": 359900124865,
+    "shares": 10762890
+   }
+  ]
+ },
+ "ytd": {
+  "basis": "CFS",
+  "bs": {
+   "assets": 620672079331,
+   "cash": 37550940628,
+   "current_assets": 225737935673,
+   "current_liab": 321404919475,
+   "debt": 337886495964,
+   "equity": 195300902332,
+   "equity_owner": 193498052894,
+   "inventories": 99282373381,
+   "liabilities": 425371176999
+  },
+  "cf": {
+   "capex": 2717522033,
+   "capex_int": 45243351,
+   "cff": -9272597908,
+   "cfi": -17006471338,
+   "cfo": 21593851418,
+   "div_paid": 4854865500
+  },
+  "end": "2026-06",
+  "is": {
+   "cogs": 83174756610,
+   "eps": 1880,
+   "gross": 105445438992,
+   "ni": 17786119349,
+   "ni_minority": -466701792,
+   "ni_owner": 18252821141,
+   "op": 26370023526,
+   "pbt": 24405251055,
+   "revenue": 188620195602,
+   "sga": 79075415466
+  },
+  "label": "2026 반기 누적",
+  "rcept_no": "20260814002692"
+ }
+}
