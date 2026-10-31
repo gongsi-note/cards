@@ -1,0 +1,7219 @@
+{
+ "acc_mt": 12,
+ "code": "061970",
+ "corp_cls": "K",
+ "corp_code": "00412348",
+ "corp_name": "엘비세미콘(주)",
+ "docs": {
+  "2024-09_20241113000321.md": {
+   "end": "2024-09",
+   "ok": true,
+   "rcept_no": "20241113000321",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2024-12_20250320001686.md": {
+   "end": "2024-12",
+   "ok": true,
+   "rcept_no": "20250320001686",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2025-03_20250515001114.md": {
+   "end": "2025-03",
+   "ok": true,
+   "rcept_no": "20250515001114",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2025-06_20250814002274.md": {
+   "end": "2025-06",
+   "ok": true,
+   "rcept_no": "20250814002274",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2025-09_20251114001522.md": {
+   "end": "2025-09",
+   "ok": true,
+   "rcept_no": "20251114001522",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2025-12_20260320000806.md": {
+   "end": "2025-12",
+   "ok": true,
+   "rcept_no": "20260320000806",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2026-03_20260515001798.md": {
+   "end": "2026-03",
+   "ok": true,
+   "rcept_no": "20260515001798",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2026-06_20260814002061.md": {
+   "end": "2026-06",
+   "ok": true,
+   "rcept_no": "20260814002061",
+   "reprt_code": "11012",
+   "tries": 1
+  }
+ },
+ "extra": {
+  "2021-06_11012_empSttus": {
+   "rcept": "20210817000187",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5.53",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "10,630,547,000",
+     "jan_salary_am": "26,886,000",
+     "rcept_no": "20210817000187",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "395",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "395",
+     "stlm_dt": "2021-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4.37",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "4,399,953,000",
+     "jan_salary_am": "21,251,000",
+     "rcept_no": "20210817000187",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "207",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "207",
+     "stlm_dt": "2021-06-30"
+    }
+   ]
+  },
+  "2021-12_11011_alotMatter": {
+   "rcept": "20220318000595",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "500",
+     "lwfr": "500",
+     "rcept_no": "20220318000595",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "500"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "27,057",
+     "lwfr": "32,574",
+     "rcept_no": "20220318000595",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "32,537"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "19,372",
+     "lwfr": "25,848",
+     "rcept_no": "20220318000595",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "39,723"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "618",
+     "lwfr": "744",
+     "rcept_no": "20220318000595",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "743"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "2,189",
+     "lwfr": "2,189",
+     "rcept_no": "20220318000595",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "2,189"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220318000595",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "8.10",
+     "lwfr": "6.70",
+     "rcept_no": "20220318000595",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "6.70"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "0.40",
+     "lwfr": "0.68",
+     "rcept_no": "20220318000595",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "0.37"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220318000595",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220318000595",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220318000595",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "50",
+     "lwfr": "50",
+     "rcept_no": "20220318000595",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "50"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220318000595",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220318000595",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220318000595",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2021-12_11011_empSttus": {
+   "rcept": "20220318000595",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5.71",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "21,344,589,000",
+     "jan_salary_am": "52,847,000",
+     "rcept_no": "20220318000595",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "403",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "403",
+     "stlm_dt": "2021-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4.62",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "9,142,666,000",
+     "jan_salary_am": "42,176,000",
+     "rcept_no": "20220318000595",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "215",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "215",
+     "stlm_dt": "2021-12-31"
+    }
+   ]
+  },
+  "2021-12_11011_stockTotqySttus": {
+   "rcept": "20220318000595",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "43,784,592",
+     "etc": "-",
+     "istc_totqy": "43,784,592",
+     "isu_stock_totqy": "90,000,000",
+     "now_to_dcrs_stock_totqy": "14,804,716",
+     "now_to_isu_stock_totqy": "58,589,308",
+     "profit_incnr": "-",
+     "rcept_no": "20220318000595",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "보통주",
+     "stlm_dt": "2021-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "8,000,000",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "10,000,000",
+     "now_to_dcrs_stock_totqy": "8,000,000",
+     "now_to_isu_stock_totqy": "8,000,000",
+     "profit_incnr": "-",
+     "rcept_no": "20220318000595",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "우선주",
+     "stlm_dt": "2021-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "43,784,592",
+     "etc": "8,000,000",
+     "istc_totqy": "43,784,592",
+     "isu_stock_totqy": "100,000,000",
+     "now_to_dcrs_stock_totqy": "22,804,716",
+     "now_to_isu_stock_totqy": "66,589,308",
+     "profit_incnr": "-",
+     "rcept_no": "20220318000595",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "합계",
+     "stlm_dt": "2021-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20220318000595",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2021-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2021-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20220318000595",
+   "rows": [
+    {
+     "acqs_mth1": "-",
+     "acqs_mth2": "-",
+     "acqs_mth3": "-",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20220318000595",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2022-06_11012_empSttus": {
+   "rcept": "20220816001266",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5.47",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "11,880,409,000",
+     "jan_salary_am": "4,832,000",
+     "rcept_no": "20220816001266",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "426",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "426",
+     "stlm_dt": "2022-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4.10",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "4,734,095,000",
+     "jan_salary_am": "3,849,000",
+     "rcept_no": "20220816001266",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "218",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "218",
+     "stlm_dt": "2022-06-30"
+    }
+   ]
+  },
+  "2022-12_11011_alotMatter": {
+   "rcept": "20230317000109",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "500",
+     "lwfr": "500",
+     "rcept_no": "20230317000109",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "500"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "32,537",
+     "lwfr": "27,057",
+     "rcept_no": "20230317000109",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "40,208"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "39,723",
+     "lwfr": "19,372",
+     "rcept_no": "20230317000109",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "37,706"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "743",
+     "lwfr": "618",
+     "rcept_no": "20230317000109",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "918"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "2,189",
+     "lwfr": "2,189",
+     "rcept_no": "20230317000109",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000109",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "6.70",
+     "lwfr": "8.10",
+     "rcept_no": "20230317000109",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "0.37",
+     "lwfr": "0.40",
+     "rcept_no": "20230317000109",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000109",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000109",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000109",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "50",
+     "lwfr": "50",
+     "rcept_no": "20230317000109",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000109",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000109",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000109",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2022-12_11011_empSttus": {
+   "rcept": "20230317000109",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5.60",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "26,115,657,000",
+     "jan_salary_am": "60,876,000",
+     "rcept_no": "20230317000109",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "429",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "429",
+     "stlm_dt": "2022-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4.42",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "10,252,708,000",
+     "jan_salary_am": "47,687,000",
+     "rcept_no": "20230317000109",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "215",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "215",
+     "stlm_dt": "2022-12-31"
+    }
+   ]
+  },
+  "2022-12_11011_stockTotqySttus": {
+   "rcept": "20230317000109",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "43,784,592",
+     "etc": "-",
+     "istc_totqy": "43,784,592",
+     "isu_stock_totqy": "90,000,000",
+     "now_to_dcrs_stock_totqy": "14,804,716",
+     "now_to_isu_stock_totqy": "58,589,308",
+     "profit_incnr": "-",
+     "rcept_no": "20230317000109",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "보통주",
+     "stlm_dt": "2022-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "8,000,000",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "10,000,000",
+     "now_to_dcrs_stock_totqy": "8,000,000",
+     "now_to_isu_stock_totqy": "8,000,000",
+     "profit_incnr": "-",
+     "rcept_no": "20230317000109",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "우선주",
+     "stlm_dt": "2022-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "43,784,592",
+     "etc": "8,000,000",
+     "istc_totqy": "43,784,592",
+     "isu_stock_totqy": "100,000,000",
+     "now_to_dcrs_stock_totqy": "22,804,716",
+     "now_to_isu_stock_totqy": "66,589,308",
+     "profit_incnr": "-",
+     "rcept_no": "20230317000109",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "합계",
+     "stlm_dt": "2022-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20230317000109",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2022-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2022-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20230317000109",
+   "rows": [
+    {
+     "acqs_mth1": "-",
+     "acqs_mth2": "-",
+     "acqs_mth3": "-",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20230317000109",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2023-06_11012_empSttus": {
+   "rcept": "20230814001897",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5.27",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "12,588,172,000",
+     "jan_salary_am": "27,509,000",
+     "rcept_no": "20230814001897",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "462",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "462",
+     "stlm_dt": "2023-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4.52",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "5,263,415,000",
+     "jan_salary_am": "23,287,000",
+     "rcept_no": "20230814001897",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "226",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "226",
+     "stlm_dt": "2023-06-30"
+    }
+   ]
+  },
+  "2023-12_11011_alotMatter": {
+   "rcept": "20240319000809",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "500",
+     "lwfr": "500",
+     "rcept_no": "20240319000809",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "500"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "40,208",
+     "lwfr": "32,537",
+     "rcept_no": "20240319000809",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-15,902"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "37,706",
+     "lwfr": "39,723",
+     "rcept_no": "20240319000809",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-15,182"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "918",
+     "lwfr": "743",
+     "rcept_no": "20240319000809",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-363"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "2,189",
+     "rcept_no": "20240319000809",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240319000809",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "6.70",
+     "rcept_no": "20240319000809",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "0.37",
+     "rcept_no": "20240319000809",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240319000809",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240319000809",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240319000809",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "50",
+     "rcept_no": "20240319000809",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240319000809",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240319000809",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240319000809",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2023-12_11011_empSttus": {
+   "rcept": "20240319000809",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5.19",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "22,980,663,000",
+     "jan_salary_am": "48,083,000",
+     "rcept_no": "20240319000809",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "468",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "468",
+     "stlm_dt": "2023-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4.78",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "10,509,532,000",
+     "jan_salary_am": "46,207,000",
+     "rcept_no": "20240319000809",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "224",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "224",
+     "stlm_dt": "2023-12-31"
+    }
+   ]
+  },
+  "2023-12_11011_stockTotqySttus": {
+   "rcept": "20240319000809",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "43,784,592",
+     "etc": "-",
+     "istc_totqy": "43,784,592",
+     "isu_stock_totqy": "90,000,000",
+     "now_to_dcrs_stock_totqy": "14,804,716",
+     "now_to_isu_stock_totqy": "58,589,308",
+     "profit_incnr": "-",
+     "rcept_no": "20240319000809",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "보통주",
+     "stlm_dt": "2023-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "8,000,000",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "10,000,000",
+     "now_to_dcrs_stock_totqy": "8,000,000",
+     "now_to_isu_stock_totqy": "8,000,000",
+     "profit_incnr": "-",
+     "rcept_no": "20240319000809",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "우선주",
+     "stlm_dt": "2023-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "43,784,592",
+     "etc": "8,000,000",
+     "istc_totqy": "43,784,592",
+     "isu_stock_totqy": "100,000,000",
+     "now_to_dcrs_stock_totqy": "22,804,716",
+     "now_to_isu_stock_totqy": "66,589,308",
+     "profit_incnr": "-",
+     "rcept_no": "20240319000809",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "합계",
+     "stlm_dt": "2023-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20240319000809",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2023-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2023-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20240319000809",
+   "rows": [
+    {
+     "acqs_mth1": "-",
+     "acqs_mth2": "-",
+     "acqs_mth3": "-",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20240319000809",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2024-06_11012_empSttus": {
+   "rcept": "20240814000914",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "4.5년",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "16,585,268,000",
+     "jan_salary_am": "28,915,000",
+     "rcept_no": "20240814000914",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "573",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "573",
+     "stlm_dt": "2024-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "3.3년",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "6,512,017,000",
+     "jan_salary_am": "21,918,000",
+     "rcept_no": "20240814000914",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "297",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "297",
+     "stlm_dt": "2024-06-30"
+    }
+   ]
+  },
+  "2024-12_11011_alotMatter": {
+   "rcept": "20250320001686",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "500",
+     "lwfr": "500",
+     "rcept_no": "20250320001686",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "500"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-15,181",
+     "lwfr": "40,208",
+     "rcept_no": "20250320001686",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-22,183"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-15,182",
+     "lwfr": "37,706",
+     "rcept_no": "20250320001686",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-23,228"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-363",
+     "lwfr": "918",
+     "rcept_no": "20250320001686",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-507"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250320001686",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2024-12_11011_empSttus": {
+   "rcept": "20250320001686",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "4.6년",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "32,377,010,000",
+     "jan_salary_am": "53,683,000",
+     "rcept_no": "20250320001686",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "614",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "614",
+     "stlm_dt": "2024-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "3.5년",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "12,821,661,000",
+     "jan_salary_am": "41,340,000",
+     "rcept_no": "20250320001686",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "324",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "324",
+     "stlm_dt": "2024-12-31"
+    }
+   ]
+  },
+  "2024-12_11011_stockTotqySttus": {
+   "rcept": "20250320001686",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "43,784,592",
+     "etc": "-",
+     "istc_totqy": "43,784,592",
+     "isu_stock_totqy": "90,000,000",
+     "now_to_dcrs_stock_totqy": "14,804,716",
+     "now_to_isu_stock_totqy": "58,589,308",
+     "profit_incnr": "-",
+     "rcept_no": "20250320001686",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "보통주",
+     "stlm_dt": "2024-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "8,000,000",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "10,000,000",
+     "now_to_dcrs_stock_totqy": "8,000,000",
+     "now_to_isu_stock_totqy": "8,000,000",
+     "profit_incnr": "-",
+     "rcept_no": "20250320001686",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "우선주",
+     "stlm_dt": "2024-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "43,784,592",
+     "etc": "8,000,000",
+     "istc_totqy": "43,784,592",
+     "isu_stock_totqy": "100,000,000",
+     "now_to_dcrs_stock_totqy": "22,804,716",
+     "now_to_isu_stock_totqy": "66,589,308",
+     "profit_incnr": "-",
+     "rcept_no": "20250320001686",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "합계",
+     "stlm_dt": "2024-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20250320001686",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2024-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2024-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20250320001686",
+   "rows": [
+    {
+     "acqs_mth1": "-",
+     "acqs_mth2": "-",
+     "acqs_mth3": "-",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20250320001686",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2025-06_11012_empSttus": {
+   "rcept": "20250814002274",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5.83",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "1",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "28,804,271,000",
+     "jan_salary_am": "28,978,000",
+     "rcept_no": "20250814002274",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "1,005",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "1,006",
+     "stlm_dt": "2025-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4.32",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "12,580,831,000",
+     "jan_salary_am": "23,168,000",
+     "rcept_no": "20250814002274",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "546",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "548",
+     "stlm_dt": "2025-06-30"
+    }
+   ]
+  },
+  "2025-12_11011_alotMatter": {
+   "rcept": "20260320000806",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "500",
+     "lwfr": "500",
+     "rcept_no": "20260320000806",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "500"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-22,183",
+     "lwfr": "-15,181",
+     "rcept_no": "20260320000806",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-151,164"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-23,228",
+     "lwfr": "-15,182",
+     "rcept_no": "20260320000806",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-151,557"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-507",
+     "lwfr": "-363",
+     "rcept_no": "20260320000806",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-2,722"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260320000806",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2025-12_11011_empSttus": {
+   "rcept": "20260320000806",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "4.81",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "58,669,857,000",
+     "jan_salary_am": "59,203,000",
+     "rcept_no": "20260320000806",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "989",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "991",
+     "stlm_dt": "2025-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4.53",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "23,914,412,000",
+     "jan_salary_am": "45,813,000",
+     "rcept_no": "20260320000806",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "520",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "522",
+     "stlm_dt": "2025-12-31"
+    }
+   ]
+  },
+  "2025-12_11011_stockTotqySttus": {
+   "rcept": "20260320000806",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "58,083,006",
+     "etc": "-",
+     "istc_totqy": "58,083,006",
+     "isu_stock_totqy": "190,000,000",
+     "now_to_dcrs_stock_totqy": "14,804,716",
+     "now_to_isu_stock_totqy": "72,887,722",
+     "profit_incnr": "-",
+     "rcept_no": "20260320000806",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "보통주",
+     "stlm_dt": "2025-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "10,000,000",
+     "now_to_dcrs_stock_totqy": "8,000,000",
+     "now_to_isu_stock_totqy": "8,000,000",
+     "profit_incnr": "-",
+     "rcept_no": "20260320000806",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "우선주",
+     "stlm_dt": "2025-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "58,083,006",
+     "etc": "-",
+     "istc_totqy": "58,083,006",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "22,804,716",
+     "now_to_isu_stock_totqy": "80,887,722",
+     "profit_incnr": "-",
+     "rcept_no": "20260320000806",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "합계",
+     "stlm_dt": "2025-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20260320000806",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2025-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2025-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20260320000806",
+   "rows": [
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "1,529,951",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "1,529,951",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "우선주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260320000806",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2026-06_11012_empSttus": {
+   "rcept": "20260814002061",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5.10",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "27,240,432,000",
+     "jan_salary_am": "28,199,000",
+     "rcept_no": "20260814002061",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "966",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "966",
+     "stlm_dt": "2026-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "3.97",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "1",
+     "corp_name": "LB세미콘",
+     "fo_bbm": "반도체",
+     "fyer_salary_totamt": "12,036,605,000",
+     "jan_salary_am": "22,583,000",
+     "rcept_no": "20260814002061",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "532",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "533",
+     "stlm_dt": "2026-06-30"
+    }
+   ]
+  },
+  "2026-06_11012_stockTotqySttus": {
+   "rcept": "20260814002061",
+   "rows": [
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "58,080,410",
+     "etc": "-",
+     "istc_totqy": "58,083,006",
+     "isu_stock_totqy": "190,000,000",
+     "now_to_dcrs_stock_totqy": "14,804,716",
+     "now_to_isu_stock_totqy": "72,887,722",
+     "profit_incnr": "-",
+     "rcept_no": "20260814002061",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "보통주",
+     "stlm_dt": "2026-06-30",
+     "tesstk_co": "2,596"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "10,000,000",
+     "now_to_dcrs_stock_totqy": "8,000,000",
+     "now_to_isu_stock_totqy": "8,000,000",
+     "profit_incnr": "-",
+     "rcept_no": "20260814002061",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "우선주",
+     "stlm_dt": "2026-06-30",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "58,080,410",
+     "etc": "-",
+     "istc_totqy": "58,083,006",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "22,804,716",
+     "now_to_isu_stock_totqy": "80,887,722",
+     "profit_incnr": "-",
+     "rcept_no": "20260814002061",
+     "rdmstk_repy": "-",
+     "redc": "14,804,716",
+     "se": "합계",
+     "stlm_dt": "2026-06-30",
+     "tesstk_co": "2,596"
+    },
+    {
+     "corp_name": "LB세미콘",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20260814002061",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2026-06-30",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2026-06_11012_tesstkAcqsDspsSttus": {
+   "rcept": "20260814002061",
+   "rows": [
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "2,596",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "보통주",
+     "trmend_qy": "2,596"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "2,596",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "보통주",
+     "trmend_qy": "2,596"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "LB세미콘",
+     "rcept_no": "20260814002061",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    }
+   ]
+  }
+ },
+ "induty_code": "2612",
+ "layout": 1,
+ "market": "코스닥",
+ "memo": "LB세미콘",
+ "periods": {
+  "2019-12_11011": {
+   "end": "2019-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20200330",
+     "rcept_no": "20200330000279",
+     "report_nm": "사업보고서 (2019.12)"
+    }
+   ],
+   "first_dt": "20200330",
+   "fy": 2019,
+   "latest": "20200330000279",
+   "reprt_code": "11011"
+  },
+  "2020-03_11013": {
+   "end": "2020-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20200515",
+     "rcept_no": "20200515001129",
+     "report_nm": "분기보고서 (2020.03)"
+    }
+   ],
+   "first_dt": "20200515",
+   "fy": 2020,
+   "latest": "20200515001129",
+   "reprt_code": "11013"
+  },
+  "2020-06_11012": {
+   "end": "2020-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20200814",
+     "rcept_no": "20200814000480",
+     "report_nm": "반기보고서 (2020.06)"
+    }
+   ],
+   "first_dt": "20200814",
+   "fy": 2020,
+   "latest": "20200814000480",
+   "reprt_code": "11012"
+  },
+  "2020-09_11014": {
+   "end": "2020-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20201116",
+     "rcept_no": "20201116000319",
+     "report_nm": "분기보고서 (2020.09)"
+    }
+   ],
+   "first_dt": "20201116",
+   "fy": 2020,
+   "latest": "20201116000319",
+   "reprt_code": "11014"
+  },
+  "2020-12_11011": {
+   "end": "2020-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20210318",
+     "rcept_no": "20210318000300",
+     "report_nm": "사업보고서 (2020.12)"
+    }
+   ],
+   "first_dt": "20210318",
+   "fy": 2020,
+   "latest": "20210318000300",
+   "reprt_code": "11011"
+  },
+  "2021-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2021,
+   "data": {
+    "bs": {
+     "assets": 603483219135,
+     "cash": 58261505075,
+     "current_assets": 175577306296,
+     "current_liab": 237600924411,
+     "debt": 241198408743,
+     "equity": 227128118661,
+     "equity_owner": 181301375552,
+     "inventories": 22600971423,
+     "liabilities": 376355100474
+    },
+    "cf": {
+     "capex": 48775450950,
+     "capex_int": 20624600,
+     "cff": 31925489253,
+     "cfi": -49604289291,
+     "cfo": 32548089797
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      84655150000
+     ],
+     [
+      "유동성장기차입금",
+      41280048458
+     ],
+     [
+      "장기차입금",
+      115263210285
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 96736607920,
+      "cum": 96736607920
+     },
+     "eps": {
+      "3m": 215,
+      "cum": 215
+     },
+     "gross": {
+      "3m": 17160441187,
+      "cum": 17160441187
+     },
+     "ni": {
+      "3m": 10864968870,
+      "cum": 10864968870
+     },
+     "ni_minority": {
+      "3m": 1466778708,
+      "cum": 1466778708
+     },
+     "ni_owner": {
+      "3m": 9398190162,
+      "cum": 9398190162
+     },
+     "op": {
+      "3m": 10639061530,
+      "cum": 10639061530
+     },
+     "pbt": {
+      "3m": 11600718354,
+      "cum": 11600718354
+     },
+     "revenue": {
+      "3m": 113897049107,
+      "cum": 113897049107
+     },
+     "sga": {
+      "3m": 6521379657,
+      "cum": 6521379657
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20210517001501",
+   "end": "2021-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20210517",
+     "rcept_no": "20210517001501",
+     "report_nm": "분기보고서 (2021.03)"
+    }
+   ],
+   "first_dt": "20210517",
+   "fy": 2021,
+   "latest": "20210517001501",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2021-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2021,
+   "data": {
+    "bs": {
+     "assets": 659716023007,
+     "cash": 108424505260,
+     "current_assets": 222957257394,
+     "current_liab": 194309748358,
+     "debt": 231366513504,
+     "equity": 318798901164,
+     "equity_owner": 215503796648,
+     "inventories": 21260410385,
+     "liabilities": 340917121843
+    },
+    "cf": {
+     "capex": 86210647818,
+     "capex_int": 420809600,
+     "cff": 100024421201,
+     "cfi": -88523580449,
+     "cfo": 53678715130,
+     "div_paid": 2188955100
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      60617000000
+     ],
+     [
+      "유동성장기차입금",
+      46144625323
+     ],
+     [
+      "장기차입금",
+      124604888181
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 102296741065,
+      "cum": 199033348985
+     },
+     "eps": {
+      "3m": 240,
+      "cum": 454
+     },
+     "gross": {
+      "3m": 19307190718,
+      "cum": 36467631905
+     },
+     "ni": {
+      "3m": 11637036371,
+      "cum": 22502005241
+     },
+     "ni_minority": {
+      "3m": 1150348419,
+      "cum": 2617127127
+     },
+     "ni_owner": {
+      "3m": 10486687952,
+      "cum": 19884878114
+     },
+     "op": {
+      "3m": 12398643257,
+      "cum": 23037704787
+     },
+     "pbt": {
+      "3m": 11214212537,
+      "cum": 22814930891
+     },
+     "revenue": {
+      "3m": 121603931783,
+      "cum": 235500980890
+     },
+     "sga": {
+      "3m": 6908547461,
+      "cum": 13429927118
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20210817000187",
+   "end": "2021-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20210817",
+     "rcept_no": "20210817000187",
+     "report_nm": "반기보고서 (2021.06)"
+    }
+   ],
+   "first_dt": "20210817",
+   "fy": 2021,
+   "latest": "20210817000187",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2021-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2021,
+   "data": {
+    "bs": {
+     "assets": 673483999024,
+     "cash": 58442790896,
+     "current_assets": 233133238192,
+     "current_liab": 195194919717,
+     "debt": 237674048265,
+     "equity": 330924121316,
+     "equity_owner": 224799721433,
+     "inventories": 26542520997,
+     "liabilities": 342559877708
+    },
+    "cf": {
+     "capex": 116188672839,
+     "capex_int": 530166900,
+     "cff": 100737815460,
+     "cfi": -166706830826,
+     "cfo": 81216126792,
+     "div_paid": 2188955100
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      57915410000
+     ],
+     [
+      "유동성장기차입금",
+      53549361209
+     ],
+     [
+      "장기차입금",
+      126209277056
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 106026797592,
+      "cum": 305060146577
+     },
+     "eps": {
+      "3m": 232,
+      "cum": 686
+     },
+     "gross": {
+      "3m": 23394356761,
+      "cum": 59861988666
+     },
+     "ni": {
+      "3m": 13121545427,
+      "cum": 35623550668
+     },
+     "ni_minority": {
+      "3m": 2977458384,
+      "cum": 5594585511
+     },
+     "ni_owner": {
+      "3m": 10144087043,
+      "cum": 30028965157
+     },
+     "op": {
+      "3m": 16510602390,
+      "cum": 39548307177
+     },
+     "pbt": {
+      "3m": 15668853587,
+      "cum": 38483784478
+     },
+     "revenue": {
+      "3m": 129421154353,
+      "cum": 364922135243
+     },
+     "sga": {
+      "3m": 6883754371,
+      "cum": 20313681489
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20211115001779",
+   "end": "2021-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20211115",
+     "rcept_no": "20211115001779",
+     "report_nm": "분기보고서 (2021.09)"
+    }
+   ],
+   "first_dt": "20211115",
+   "fy": 2021,
+   "latest": "20211115001779",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2021-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2021,
+   "data": {
+    "bs": {
+     "assets": 700319378510,
+     "cash": 57203628019,
+     "current_assets": 229529809278,
+     "current_liab": 215830594424,
+     "debt": 251436906360,
+     "equity": 335445660842,
+     "equity_owner": 228623487593,
+     "inventories": 25361684935,
+     "liabilities": 364873717668
+    },
+    "cf": {
+     "capex": 157901585578,
+     "capex_int": 699302020,
+     "cff": 112329250909,
+     "cfi": -208081739384,
+     "cfo": 109877018687,
+     "div_paid": 2189450000
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      62426850000
+     ],
+     [
+      "유동성장기차입금",
+      56216423007
+     ],
+     [
+      "장기차입금",
+      132793633353
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 422805804384
+     },
+     "eps": {
+      "3m": null,
+      "cum": 743
+     },
+     "gross": {
+      "3m": null,
+      "cum": 73431169065
+     },
+     "ni": {
+      "3m": null,
+      "cum": 38312183476
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": 5775598330
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": 32536585146
+     },
+     "op": {
+      "3m": null,
+      "cum": 44225236880
+     },
+     "pbt": {
+      "3m": null,
+      "cum": 41930543607
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 496236973449
+     },
+     "sga": {
+      "3m": null,
+      "cum": 29205932185
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20220318000595",
+   "end": "2021-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20220318",
+     "rcept_no": "20220318000595",
+     "report_nm": "사업보고서 (2021.12)"
+    }
+   ],
+   "first_dt": "20220318",
+   "fy": 2021,
+   "latest": "20220318000595",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2022-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2022,
+   "data": {
+    "bs": {
+     "assets": 753061128787,
+     "cash": 64207857896,
+     "current_assets": 238236134826,
+     "current_liab": 225588614399,
+     "debt": 290945111267,
+     "equity": 347569901787,
+     "equity_owner": 237968230421,
+     "inventories": 27530480002,
+     "liabilities": 405491227000
+    },
+    "cf": {
+     "capex": 70187463565,
+     "capex_int": 347792296,
+     "cff": 35730805727,
+     "cfi": -40272922342,
+     "cfo": 11524257621,
+     "div_paid": 32600
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      67798760000
+     ],
+     [
+      "유동성장기차입금",
+      60030901013
+     ],
+     [
+      "장기차입금",
+      163115450254
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 108475573528,
+      "cum": 108475573528
+     },
+     "eps": {
+      "3m": 263,
+      "cum": 263
+     },
+     "gross": {
+      "3m": 24244516309,
+      "cum": 24244516309
+     },
+     "ni": {
+      "3m": 14084725952,
+      "cum": 14084725952
+     },
+     "ni_minority": {
+      "3m": 2550441465,
+      "cum": 2550441465
+     },
+     "ni_owner": {
+      "3m": 11534284487,
+      "cum": 11534284487
+     },
+     "op": {
+      "3m": 16954008256,
+      "cum": 16954008256
+     },
+     "pbt": {
+      "3m": 16282808439,
+      "cum": 16282808439
+     },
+     "revenue": {
+      "3m": 132720089837,
+      "cum": 132720089837
+     },
+     "sga": {
+      "3m": 7290508053,
+      "cum": 7290508053
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20220517000061",
+   "end": "2022-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20220516",
+     "rcept_no": "20220516001848",
+     "report_nm": "분기보고서 (2022.03)"
+    },
+    {
+     "amend": true,
+     "rcept_dt": "20220517",
+     "rcept_no": "20220517000061",
+     "report_nm": "[기재정정]분기보고서 (2022.03)"
+    }
+   ],
+   "first_dt": "20220516",
+   "fy": 2022,
+   "latest": "20220517000061",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2022-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2022,
+   "data": {
+    "bs": {
+     "assets": 755830508370,
+     "cash": 98192104692,
+     "current_assets": 238704491010,
+     "current_liab": 217245875865,
+     "debt": 291997404633,
+     "equity": 362749594979,
+     "equity_owner": 250002217151,
+     "inventories": 26485161521,
+     "liabilities": 393080913391
+    },
+    "cf": {
+     "capex": 92978399344,
+     "capex_int": 471742296,
+     "cff": 27896485727,
+     "cfi": -42702893542,
+     "cfo": 55708327333,
+     "div_paid": 2189235150
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      69005630000
+     ],
+     [
+      "유동성장기차입금",
+      62335121534
+     ],
+     [
+      "장기차입금",
+      160656653099
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 115736924679,
+      "cum": 224212498207
+     },
+     "eps": {
+      "3m": 276,
+      "cum": 539
+     },
+     "gross": {
+      "3m": 28852150227,
+      "cum": 53096666536
+     },
+     "ni": {
+      "3m": 14986926162,
+      "cum": 29071652114
+     },
+     "ni_minority": {
+      "3m": 2916468488,
+      "cum": 5466909953
+     },
+     "ni_owner": {
+      "3m": 12070457674,
+      "cum": 23604742161
+     },
+     "op": {
+      "3m": 19829556631,
+      "cum": 36783564887
+     },
+     "pbt": {
+      "3m": 19855988818,
+      "cum": 36138797257
+     },
+     "revenue": {
+      "3m": 144589074906,
+      "cum": 277309164743
+     },
+     "sga": {
+      "3m": 9022593596,
+      "cum": 16313101649
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20220816001266",
+   "end": "2022-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20220816",
+     "rcept_no": "20220816001266",
+     "report_nm": "반기보고서 (2022.06)"
+    }
+   ],
+   "first_dt": "20220816",
+   "fy": 2022,
+   "latest": "20220816001266",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2022-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2022,
+   "data": {
+    "bs": {
+     "assets": 764128130463,
+     "cash": 112281012971,
+     "current_assets": 241535928511,
+     "current_liab": 213735951045,
+     "debt": 296267664703,
+     "equity": 374933516968,
+     "equity_owner": 261283609031,
+     "inventories": 29605039059,
+     "liabilities": 389194613495
+    },
+    "cf": {
+     "capex": 113932178705,
+     "capex_int": 546027296,
+     "cff": 21636242469,
+     "cfi": -64578431578,
+     "cfo": 97285183391,
+     "div_paid": 2189235150
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      76091560000
+     ],
+     [
+      "유동성장기차입금",
+      61290967151
+     ],
+     [
+      "장기차입금",
+      158885137552
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 107384378259,
+      "cum": 331596876466
+     },
+     "eps": {
+      "3m": 258,
+      "cum": 797
+     },
+     "gross": {
+      "3m": 24462073597,
+      "cum": 77558740133
+     },
+     "ni": {
+      "3m": 11983612476,
+      "cum": 41055264590
+     },
+     "ni_minority": {
+      "3m": 673278200,
+      "cum": 6140188153
+     },
+     "ni_owner": {
+      "3m": 11310334276,
+      "cum": 34915076437
+     },
+     "op": {
+      "3m": 16338272164,
+      "cum": 53121837051
+     },
+     "pbt": {
+      "3m": 15592505055,
+      "cum": 51731302312
+     },
+     "revenue": {
+      "3m": 131846451856,
+      "cum": 409155616599
+     },
+     "sga": {
+      "3m": 8123801433,
+      "cum": 24436903082
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20221114001653",
+   "end": "2022-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20221114",
+     "rcept_no": "20221114001653",
+     "report_nm": "분기보고서 (2022.09)"
+    }
+   ],
+   "first_dt": "20221114",
+   "fy": 2022,
+   "latest": "20221114001653",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2022-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2022,
+   "data": {
+    "bs": {
+     "assets": 767094160190,
+     "cash": 69989776709,
+     "current_assets": 207335454411,
+     "current_liab": 216354907140,
+     "debt": 288928494755,
+     "equity": 381148543507,
+     "equity_owner": 268909737433,
+     "inventories": 21535845707,
+     "liabilities": 385945616683
+    },
+    "cf": {
+     "capex": 162659439682,
+     "capex_int": 1087142076,
+     "cff": 23616389367,
+     "cfi": -134644899797,
+     "cfo": 124017894235,
+     "div_paid": 2189235150
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      73629310000
+     ],
+     [
+      "유동성장기차입금",
+      55233935516
+     ],
+     [
+      "장기차입금",
+      160065249239
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 433595349795
+     },
+     "eps": {
+      "3m": null,
+      "cum": 918
+     },
+     "gross": {
+      "3m": null,
+      "cum": 91009984181
+     },
+     "ni": {
+      "3m": null,
+      "cum": 44715224326
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": 4506915503
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": 40208308823
+     },
+     "op": {
+      "3m": null,
+      "cum": 56796897447
+     },
+     "pbt": {
+      "3m": null,
+      "cum": 53842499291
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 524605333976
+     },
+     "sga": {
+      "3m": null,
+      "cum": 34213086734
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20230317000109",
+   "end": "2022-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20230317",
+     "rcept_no": "20230317000109",
+     "report_nm": "사업보고서 (2022.12)"
+    }
+   ],
+   "first_dt": "20230317",
+   "fy": 2022,
+   "latest": "20230317000109",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2023-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2023,
+   "data": {
+    "bs": {
+     "assets": 759319032843,
+     "cash": 74910490483,
+     "current_assets": 191537078326,
+     "current_liab": 214384858617,
+     "debt": 300344999260,
+     "equity": 375881410402,
+     "equity_owner": 263869408826,
+     "inventories": 20082676897,
+     "liabilities": 383437622441
+    },
+    "cf": {
+     "capex": 41354927555,
+     "capex_int": 237480000,
+     "cff": 7514693021,
+     "cfi": -15360887672,
+     "cfo": 12630828170,
+     "div_paid": null
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      87165860000
+     ],
+     [
+      "유동성장기차입금",
+      53350021841
+     ],
+     [
+      "장기차입금",
+      159829117419
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 93104385512,
+      "cum": 93104385512
+     },
+     "eps": {
+      "3m": -115,
+      "cum": -115
+     },
+     "gross": {
+      "3m": 1646470878,
+      "cum": 1646470878
+     },
+     "ni": {
+      "3m": -5267269053,
+      "cum": -5267269053
+     },
+     "ni_minority": {
+      "3m": -226874130,
+      "cum": -226874130
+     },
+     "ni_owner": {
+      "3m": -5040394923,
+      "cum": -5040394923
+     },
+     "op": {
+      "3m": -5210666045,
+      "cum": -5210666045
+     },
+     "pbt": {
+      "3m": -7693469693,
+      "cum": -7693469693
+     },
+     "revenue": {
+      "3m": 94750856390,
+      "cum": 94750856390
+     },
+     "sga": {
+      "3m": 6857136923,
+      "cum": 6857136923
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20230515001779",
+   "end": "2023-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20230515",
+     "rcept_no": "20230515001779",
+     "report_nm": "분기보고서 (2023.03)"
+    }
+   ],
+   "first_dt": "20230515",
+   "fy": 2023,
+   "latest": "20230515001779",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2023-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2023,
+   "data": {
+    "bs": {
+     "assets": 763758860861,
+     "cash": 102319700085,
+     "current_assets": 207316211831,
+     "current_liab": 203300214969,
+     "debt": 318299148685,
+     "equity": 373857998743,
+     "equity_owner": 261691528734,
+     "inventories": 20906765888,
+     "liabilities": 389900862118
+    },
+    "cf": {
+     "capex": 62280571087,
+     "capex_int": 638930015,
+     "cff": 24378617097,
+     "cfi": -31063735847,
+     "cfo": 39049987243,
+     "div_paid": null
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      87298160000
+     ],
+     [
+      "유동성장기차입금",
+      56859235995
+     ],
+     [
+      "장기차입금",
+      174141752690
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 95608326546,
+      "cum": 188712712058
+     },
+     "eps": {
+      "3m": -50,
+      "cum": -165
+     },
+     "gross": {
+      "3m": 7671117374,
+      "cum": 9317588252
+     },
+     "ni": {
+      "3m": -2014705767,
+      "cum": -7281974820
+     },
+     "ni_minority": {
+      "3m": 155311351,
+      "cum": -71562779
+     },
+     "ni_owner": {
+      "3m": -2170017118,
+      "cum": -7210412041
+     },
+     "op": {
+      "3m": 410386733,
+      "cum": -4800279312
+     },
+     "pbt": {
+      "3m": -2276422848,
+      "cum": -9969892541
+     },
+     "revenue": {
+      "3m": 103279443920,
+      "cum": 198030300310
+     },
+     "sga": {
+      "3m": 7260730641,
+      "cum": 14117867564
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20230814001897",
+   "end": "2023-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20230814",
+     "rcept_no": "20230814001897",
+     "report_nm": "반기보고서 (2023.06)"
+    }
+   ],
+   "first_dt": "20230814",
+   "fy": 2023,
+   "latest": "20230814001897",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2023-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2023,
+   "data": {
+    "bs": {
+     "assets": 792760980201,
+     "cash": 81540189167,
+     "current_assets": 209560607887,
+     "current_liab": 251171443435,
+     "debt": 316341238444,
+     "equity": 370599934345,
+     "equity_owner": 255580405317,
+     "inventories": 23619095796,
+     "liabilities": 422161045856
+    },
+    "cf": {
+     "capex": 74373009411,
+     "capex_int": 1367483015,
+     "cff": 13790225127,
+     "cfi": -50843913560,
+     "cfo": 48463704647,
+     "div_paid": null
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성장기차입금",
+      68390623970
+     ],
+     [
+      "단기차입금",
+      87518560000
+     ],
+     [
+      "장기차입금",
+      160432054474
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 100643854843,
+      "cum": 289356566901
+     },
+     "eps": {
+      "3m": -139,
+      "cum": -303
+     },
+     "gross": {
+      "3m": 3939348691,
+      "cum": 13256936943
+     },
+     "ni": {
+      "3m": -5983578657,
+      "cum": -13265553477
+     },
+     "ni_minority": {
+      "3m": 80904696,
+      "cum": 9341917
+     },
+     "ni_owner": {
+      "3m": -6064483353,
+      "cum": -13274895394
+     },
+     "op": {
+      "3m": -4659638403,
+      "cum": -9459917715
+     },
+     "pbt": {
+      "3m": -5809427750,
+      "cum": -15779320291
+     },
+     "revenue": {
+      "3m": 104583203534,
+      "cum": 302613503844
+     },
+     "sga": {
+      "3m": 8598987094,
+      "cum": 22716854658
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20231114003002",
+   "end": "2023-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20231114",
+     "rcept_no": "20231114003002",
+     "report_nm": "분기보고서 (2023.09)"
+    }
+   ],
+   "first_dt": "20231114",
+   "fy": 2023,
+   "latest": "20231114003002",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2023-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2023,
+   "data": {
+    "bs": {
+     "assets": 791197660928,
+     "cash": 116028025905,
+     "current_assets": 225115638011,
+     "current_liab": 268262635481,
+     "debt": 322222151211,
+     "equity": 366147511353,
+     "equity_owner": 252593608759,
+     "inventories": 20902998095,
+     "liabilities": 425050149575
+    },
+    "cf": {
+     "capex": 75896014246,
+     "capex_int": 2056777015,
+     "cff": 22083155848,
+     "cfi": -56523915786,
+     "cfo": 80751728481,
+     "div_paid": 0
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성장기차입금",
+      69805879512
+     ],
+     [
+      "단기차입금",
+      108204180000
+     ],
+     [
+      "장기차입금",
+      144212091699
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 394143558872
+     },
+     "eps": {
+      "3m": null,
+      "cum": -363
+     },
+     "gross": {
+      "3m": null,
+      "cum": 22726976168
+     },
+     "ni": {
+      "3m": null,
+      "cum": -16597167174
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": -695374568
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": -15901792606
+     },
+     "op": {
+      "3m": null,
+      "cum": -12705033605
+     },
+     "pbt": {
+      "3m": null,
+      "cum": -27061047532
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 416870535040
+     },
+     "sga": {
+      "3m": null,
+      "cum": 35432009773
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20240319000809",
+   "end": "2023-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20240319",
+     "rcept_no": "20240319000011",
+     "report_nm": "사업보고서 (2023.12)"
+    },
+    {
+     "amend": true,
+     "rcept_dt": "20240319",
+     "rcept_no": "20240319000809",
+     "report_nm": "[기재정정]사업보고서 (2023.12)"
+    }
+   ],
+   "first_dt": "20240319",
+   "fy": 2023,
+   "latest": "20240319000809",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2024-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2024,
+   "data": {
+    "bs": {
+     "assets": 785121425820,
+     "cash": 52371628597,
+     "current_assets": 176236770816,
+     "current_liab": 247664267940,
+     "debt": 346962028047,
+     "equity": 363608999932,
+     "equity_owner": 250973267639,
+     "inventories": 24239889875,
+     "liabilities": 421512425888
+    },
+    "cf": {
+     "capex": 89818607356,
+     "capex_int": 132701000,
+     "cff": 20602099567,
+     "cfi": -83124743448,
+     "cfo": -1154077296
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성장기차입금",
+      69558513832
+     ],
+     [
+      "단기차입금",
+      112247960000
+     ],
+     [
+      "장기차입금",
+      165155554215
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 101274771573,
+      "cum": 101274771573
+     },
+     "eps": {
+      "3m": -37,
+      "cum": -37
+     },
+     "gross": {
+      "3m": 1548773273,
+      "cum": 1548773273
+     },
+     "ni": {
+      "3m": -2926400945,
+      "cum": -2926400945
+     },
+     "ni_minority": {
+      "3m": -1305280230,
+      "cum": -1305280230
+     },
+     "ni_owner": {
+      "3m": -1621120715,
+      "cum": -1621120715
+     },
+     "op": {
+      "3m": -7476349970,
+      "cum": -7476349970
+     },
+     "pbt": {
+      "3m": -6781969967,
+      "cum": -6781969967
+     },
+     "revenue": {
+      "3m": 102823544846,
+      "cum": 102823544846
+     },
+     "sga": {
+      "3m": 9025123243,
+      "cum": 9025123243
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20240516000726",
+   "end": "2024-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20240513",
+     "rcept_no": "20240513000898",
+     "report_nm": "분기보고서 (2024.03)"
+    },
+    {
+     "amend": true,
+     "rcept_dt": "20240516",
+     "rcept_no": "20240516000726",
+     "report_nm": "[기재정정]분기보고서 (2024.03)"
+    }
+   ],
+   "first_dt": "20240513",
+   "fy": 2024,
+   "latest": "20240516000726",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2024-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2024,
+   "data": {
+    "bs": {
+     "assets": 800096168021,
+     "cash": 38017780345,
+     "current_assets": 187757937980,
+     "current_liab": 262639247669,
+     "debt": 347176785823,
+     "equity": 365716588251,
+     "equity_owner": 249479933556,
+     "inventories": 31673453115,
+     "liabilities": 434379579770
+    },
+    "cf": {
+     "capex": 107170289268,
+     "capex_int": 2015246000,
+     "cff": 20631306980,
+     "cfi": -104158244414,
+     "cfo": 5406146185
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성장기차입금",
+      70570325702
+     ],
+     [
+      "단기차입금",
+      112871240000
+     ],
+     [
+      "장기차입금",
+      163735220121
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 112800084401,
+      "cum": 214074855974
+     },
+     "eps": {
+      "3m": -33,
+      "cum": -70
+     },
+     "gross": {
+      "3m": 10426421178,
+      "cum": 11975194451
+     },
+     "ni": {
+      "3m": -1063884215,
+      "cum": -3990285160
+     },
+     "ni_minority": {
+      "3m": 401262909,
+      "cum": -904017321
+     },
+     "ni_owner": {
+      "3m": -1465147124,
+      "cum": -3086267839
+     },
+     "op": {
+      "3m": 1257478395,
+      "cum": -6218871575
+     },
+     "pbt": {
+      "3m": -229808830,
+      "cum": -7011778797
+     },
+     "revenue": {
+      "3m": 123226505579,
+      "cum": 226050050425
+     },
+     "sga": {
+      "3m": 9168942783,
+      "cum": 18194066026
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20240814000914",
+   "end": "2024-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20240814",
+     "rcept_no": "20240814000914",
+     "report_nm": "반기보고서 (2024.06)"
+    }
+   ],
+   "first_dt": "20240814",
+   "fy": 2024,
+   "latest": "20240814000914",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2024-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2024,
+   "data": {
+    "bs": {
+     "assets": 771392157736,
+     "cash": 38972217915,
+     "current_assets": 160749220755,
+     "current_liab": 259708582187,
+     "debt": 186115742653,
+     "equity": 358955532946,
+     "equity_owner": 242651433862,
+     "inventories": 37069995641,
+     "liabilities": 412436624790
+    },
+    "cf": {
+     "capex": 123169415058,
+     "capex_int": 3074841000,
+     "cff": 6645633030,
+     "cfi": -118357863530,
+     "cfo": 34922000778
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성장기차입금",
+      74767622653
+     ],
+     [
+      "단기차입금",
+      111348120000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 111933938918,
+      "cum": 326008794892
+     },
+     "eps": {
+      "3m": -155,
+      "cum": -226
+     },
+     "gross": {
+      "3m": 7429593029,
+      "cum": 19404787480
+     },
+     "ni": {
+      "3m": -6731267897,
+      "cum": -10721553057
+     },
+     "ni_minority": {
+      "3m": 67521923,
+      "cum": -836495398
+     },
+     "ni_owner": {
+      "3m": -6798789820,
+      "cum": -9885057659
+     },
+     "op": {
+      "3m": -2159722221,
+      "cum": -8378593796
+     },
+     "pbt": {
+      "3m": -8182368297,
+      "cum": -15194147094
+     },
+     "revenue": {
+      "3m": 119363531947,
+      "cum": 345413582372
+     },
+     "sga": {
+      "3m": 9589315250,
+      "cum": 27783381276
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20241113000321",
+   "end": "2024-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20241113",
+     "rcept_no": "20241113000321",
+     "report_nm": "분기보고서 (2024.09)"
+    }
+   ],
+   "first_dt": "20241113",
+   "fy": 2024,
+   "latest": "20241113000321",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2024-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2024,
+   "data": {
+    "bs": {
+     "assets": 806049636545,
+     "cash": 72221485971,
+     "current_assets": 193261922927,
+     "current_liab": 303283158752,
+     "debt": 233728389175,
+     "equity": 346236165510,
+     "equity_owner": 230000423204,
+     "inventories": 33488836831,
+     "liabilities": 459813471035
+    },
+    "cf": {
+     "capex": 155011655784,
+     "capex_int": 3191486000,
+     "cff": 49203550851,
+     "cfi": -145369203049,
+     "cfo": 52037663579,
+     "div_paid": null
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성장기차입금",
+      80169389175
+     ],
+     [
+      "단기차입금",
+      153559000000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 432642568683
+     },
+     "eps": {
+      "3m": null,
+      "cum": -507
+     },
+     "gross": {
+      "3m": null,
+      "cum": 18222210985
+     },
+     "ni": {
+      "3m": null,
+      "cum": -23019472887
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": -836184987
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": -22183287900
+     },
+     "op": {
+      "3m": null,
+      "cum": -18823421741
+     },
+     "pbt": {
+      "3m": null,
+      "cum": -30846102515
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 450864779668
+     },
+     "sga": {
+      "3m": null,
+      "cum": 37045632726
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "div_paid": [
+      "ifrs-full_DividendsPaidClassifiedAsFinancingActivities",
+      "배당금지급",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20250320001686",
+   "end": "2024-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20250320",
+     "rcept_no": "20250320000568",
+     "report_nm": "사업보고서 (2024.12)"
+    },
+    {
+     "amend": true,
+     "rcept_dt": "20250320",
+     "rcept_no": "20250320001686",
+     "report_nm": "[기재정정]사업보고서 (2024.12)"
+    }
+   ],
+   "first_dt": "20250320",
+   "fy": 2024,
+   "latest": "20250320001686",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2025-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2025,
+   "data": {
+    "bs": {
+     "assets": 834945617973,
+     "cash": 50335492400,
+     "current_assets": 217163577400,
+     "current_liab": 340877852174,
+     "debt": 247304052523,
+     "equity": 337138949354,
+     "equity_owner": 332974008989,
+     "inventories": 47916221770,
+     "liabilities": 497806668619
+    },
+    "cf": {
+     "capex": 31587387892,
+     "capex_int": 528831900,
+     "cff": 9294998116,
+     "cfi": -23953509248,
+     "cfo": -7406749619
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      11366993217
+     ],
+     [
+      "유동성장기차입금",
+      81929509306
+     ],
+     [
+      "단기차입금",
+      154007550000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 111908072619,
+      "cum": 111908072619
+     },
+     "eps": {
+      "3m": -63,
+      "cum": -63
+     },
+     "gross": {
+      "3m": 4904370424,
+      "cum": 4904370424
+     },
+     "ni": {
+      "3m": -2822043660,
+      "cum": -2822043660
+     },
+     "ni_minority": {
+      "3m": 455642561,
+      "cum": 455642561
+     },
+     "ni_owner": {
+      "3m": -3277686221,
+      "cum": -3277686221
+     },
+     "op": {
+      "3m": -4009667607,
+      "cum": -4009667607
+     },
+     "pbt": {
+      "3m": -5239832613,
+      "cum": -5239832613
+     },
+     "revenue": {
+      "3m": 116812443043,
+      "cum": 116812443043
+     },
+     "sga": {
+      "3m": 8914038031,
+      "cum": 8914038031
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20250515001114",
+   "end": "2025-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20250515",
+     "rcept_no": "20250515001114",
+     "report_nm": "분기보고서 (2025.03)"
+    }
+   ],
+   "first_dt": "20250515",
+   "fy": 2025,
+   "latest": "20250515001114",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2025-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2025,
+   "data": {
+    "bs": {
+     "assets": 762874155990,
+     "cash": 11742548583,
+     "current_assets": 167688682061,
+     "current_liab": 321386787262,
+     "debt": 252838765321,
+     "equity": 326137840588,
+     "equity_owner": 322231233352,
+     "inventories": 63072798793,
+     "liabilities": 436736315402
+    },
+    "cf": {
+     "capex": 36538238484,
+     "capex_int": 10449900,
+     "cff": -21084462528,
+     "cfi": -26273912472,
+     "cfo": -12914863454
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      11663932874
+     ],
+     [
+      "유동성장기차입금",
+      99735752447
+     ],
+     [
+      "단기차입금",
+      141439080000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 110654928240,
+      "cum": 222563000859
+     },
+     "eps": {
+      "3m": -189,
+      "cum": -257
+     },
+     "gross": {
+      "3m": 5033167901,
+      "cum": 9937538325
+     },
+     "ni": {
+      "3m": -10950827226,
+      "cum": -13772870886
+     },
+     "ni_minority": {
+      "3m": -258333129,
+      "cum": 197309432
+     },
+     "ni_owner": {
+      "3m": -10692494097,
+      "cum": -13970180318
+     },
+     "op": {
+      "3m": -3306404461,
+      "cum": -7316072068
+     },
+     "pbt": {
+      "3m": -10315428288,
+      "cum": -15555260901
+     },
+     "revenue": {
+      "3m": 115688096141,
+      "cum": 232500539184
+     },
+     "sga": {
+      "3m": 8339572362,
+      "cum": 17253610393
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20250814002274",
+   "end": "2025-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20250814",
+     "rcept_no": "20250814002274",
+     "report_nm": "반기보고서 (2025.06)"
+    }
+   ],
+   "first_dt": "20250814",
+   "fy": 2025,
+   "latest": "20250814002274",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2025-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2025,
+   "data": {
+    "bs": {
+     "assets": 769188537922,
+     "cash": 18087361952,
+     "current_assets": 183328986547,
+     "current_liab": 327652740887,
+     "debt": 252396702723,
+     "equity": 323545255256,
+     "equity_owner": 319825769318,
+     "inventories": 65127448199,
+     "liabilities": 445643282666
+    },
+    "cf": {
+     "capex": 42835817034,
+     "capex_int": 15502900,
+     "cff": -25852085160,
+     "cfi": -29505775861,
+     "cfo": 1504180340
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      11975232781
+     ],
+     [
+      "유동성장기차입금",
+      100609129942
+     ],
+     [
+      "단기차입금",
+      139812340000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 123400628085,
+      "cum": 345963628944
+     },
+     "eps": {
+      "3m": -42,
+      "cum": -297
+     },
+     "gross": {
+      "3m": 2149480484,
+      "cum": 12087018809
+     },
+     "ni": {
+      "3m": -2556801027,
+      "cum": -16329671913
+     },
+     "ni_minority": {
+      "3m": -187121298,
+      "cum": 10188134
+     },
+     "ni_owner": {
+      "3m": -2369679729,
+      "cum": -16339860047
+     },
+     "op": {
+      "3m": -6278960546,
+      "cum": -13595032614
+     },
+     "pbt": {
+      "3m": -9389327220,
+      "cum": -24944588121
+     },
+     "revenue": {
+      "3m": 125550108569,
+      "cum": 358050647753
+     },
+     "sga": {
+      "3m": 8428441030,
+      "cum": 25682051423
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20251114001522",
+   "end": "2025-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20251114",
+     "rcept_no": "20251114001522",
+     "report_nm": "분기보고서 (2025.09)"
+    }
+   ],
+   "first_dt": "20251114",
+   "fy": 2025,
+   "latest": "20251114001522",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2025-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2025,
+   "data": {
+    "bs": {
+     "assets": 684133638763,
+     "cash": 33088638498,
+     "current_assets": 211080236283,
+     "current_liab": 315248939811,
+     "debt": 238737146751,
+     "equity": 270040821128,
+     "equity_owner": 265985508616,
+     "inventories": 57910968767,
+     "liabilities": 414092817635
+    },
+    "cf": {
+     "capex": 55270713123,
+     "capex_int": 73502900,
+     "cff": 11105136945,
+     "cfi": -59465344237,
+     "cfo": 9528097718
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      12304210507
+     ],
+     [
+      "유동성장기차입금",
+      92639906244
+     ],
+     [
+      "단기차입금",
+      133793030000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 483622547431
+     },
+     "eps": {
+      "3m": null,
+      "cum": -2717
+     },
+     "gross": {
+      "3m": null,
+      "cum": -3840610820
+     },
+     "ni": {
+      "3m": null,
+      "cum": -150875528423
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": -14043171
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": -150861485252
+     },
+     "op": {
+      "3m": null,
+      "cum": -39800058194
+     },
+     "pbt": {
+      "3m": null,
+      "cum": -175967005492
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 479781936611
+     },
+     "sga": {
+      "3m": null,
+      "cum": 35959447374
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20260320000806",
+   "end": "2025-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20260320",
+     "rcept_no": "20260320000806",
+     "report_nm": "사업보고서 (2025.12)"
+    }
+   ],
+   "first_dt": "20260320",
+   "fy": 2025,
+   "latest": "20260320000806",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2026-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2026,
+   "data": {
+    "bs": {
+     "assets": 694032896447,
+     "cash": 18518608480,
+     "current_assets": 220892775487,
+     "current_liab": 321307003650,
+     "debt": 235216517250,
+     "equity": 281378644400,
+     "equity_owner": 276080640618,
+     "inventories": 54077569617,
+     "liabilities": 412654252047
+    },
+    "cf": {
+     "capex": 11198056503,
+     "capex_int": 282183700,
+     "cff": -17856814348,
+     "cfi": 4674396928,
+     "cfo": -1046893140
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      12650868952
+     ],
+     [
+      "유동성장기차입금",
+      87668668298
+     ],
+     [
+      "단기차입금",
+      134896980000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 119403447921,
+      "cum": 119403447921
+     },
+     "eps": {
+      "3m": 175,
+      "cum": 175
+     },
+     "gross": {
+      "3m": 14848400752,
+      "cum": 14848400752
+     },
+     "ni": {
+      "3m": 10417930496,
+      "cum": 10417930496
+     },
+     "ni_minority": {
+      "3m": 242691270,
+      "cum": 242691270
+     },
+     "ni_owner": {
+      "3m": 10175239226,
+      "cum": 10175239226
+     },
+     "op": {
+      "3m": 7643230270,
+      "cum": 7643230270
+     },
+     "pbt": {
+      "3m": 12543372922,
+      "cum": 12543372922
+     },
+     "revenue": {
+      "3m": 134251848673,
+      "cum": 134251848673
+     },
+     "sga": {
+      "3m": 7205170482,
+      "cum": 7205170482
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20260515001798",
+   "end": "2026-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20260515",
+     "rcept_no": "20260515001798",
+     "report_nm": "[첨부추가]분기보고서 (2026.03)"
+    }
+   ],
+   "first_dt": "20260515",
+   "fy": 2026,
+   "latest": "20260515001798",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2026-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2026,
+   "data": {
+    "bs": {
+     "assets": 685815386704,
+     "cash": 40710240865,
+     "current_assets": 215611294635,
+     "current_liab": 299796225202,
+     "debt": 211673046896,
+     "equity": 295584761065,
+     "equity_owner": 284943034795,
+     "inventories": 60235850554,
+     "liabilities": 390230625639
+    },
+    "cf": {
+     "capex": 27051026596,
+     "capex_int": 305943650,
+     "cff": -38524773221,
+     "cfi": -5650384052,
+     "cfo": 51695207894
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      13020637398
+     ],
+     [
+      "유동성장기차입금",
+      76842359498
+     ],
+     [
+      "단기차입금",
+      121810050000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 125046967431,
+      "cum": 244450415352
+     },
+     "eps": {
+      "3m": 152,
+      "cum": 327
+     },
+     "gross": {
+      "3m": 19807986560,
+      "cum": 34656387312
+     },
+     "ni": {
+      "3m": 8970908834,
+      "cum": 19388839330
+     },
+     "ni_minority": {
+      "3m": 143722488,
+      "cum": 386413758
+     },
+     "ni_owner": {
+      "3m": 8827186346,
+      "cum": 19002425572
+     },
+     "op": {
+      "3m": 13108569883,
+      "cum": 20751800153
+     },
+     "pbt": {
+      "3m": 11814152016,
+      "cum": 24357524938
+     },
+     "revenue": {
+      "3m": 144854953991,
+      "cum": 279106802664
+     },
+     "sga": {
+      "3m": 6699416677,
+      "cum": 13904587159
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동 자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동 부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동 재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20260814002061",
+   "end": "2026-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20260814",
+     "rcept_no": "20260814002061",
+     "report_nm": "반기보고서 (2026.06)"
+    }
+   ],
+   "first_dt": "20260814",
+   "fy": 2026,
+   "latest": "20260814002061",
+   "reprt_code": "11012",
+   "tries": 1
+  }
+ },
+ "prices": {
+  "n_days": 110,
+  "updated": "2026-10-31T18:33+09:00"
+ },
+ "stock_name": "LB세미콘"
+}

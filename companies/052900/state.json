@@ -1,0 +1,8132 @@
+{
+ "acc_mt": 12,
+ "code": "052900",
+ "corp_cls": "K",
+ "corp_code": "00276834",
+ "corp_name": "(주)케이엑스하이텍",
+ "docs": {
+  "2024-09_20241114002245.md": {
+   "end": "2024-09",
+   "ok": true,
+   "rcept_no": "20241114002245",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2024-12_20250317000960.md": {
+   "end": "2024-12",
+   "ok": true,
+   "rcept_no": "20250317000960",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2025-03_20250515002140.md": {
+   "end": "2025-03",
+   "ok": true,
+   "rcept_no": "20250515002140",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2025-06_20250814003662.md": {
+   "end": "2025-06",
+   "ok": true,
+   "rcept_no": "20250814003662",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2025-09_20251114002633.md": {
+   "end": "2025-09",
+   "ok": true,
+   "rcept_no": "20251114002633",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2025-12_20260318001546.md": {
+   "end": "2025-12",
+   "ok": true,
+   "rcept_no": "20260318001546",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2026-03_20260515000854.md": {
+   "end": "2026-03",
+   "ok": true,
+   "rcept_no": "20260515000854",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2026-06_20260814000894.md": {
+   "end": "2026-06",
+   "ok": true,
+   "rcept_no": "20260814000894",
+   "reprt_code": "11012",
+   "tries": 1
+  }
+ },
+ "extra": {
+  "2021-06_11012_empSttus": {
+   "rcept": "20210817001989",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5년 6개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "788,000,000",
+     "jan_salary_am": "23,000,000",
+     "rcept_no": "20210817001989",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "37",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "39",
+     "stlm_dt": "2021-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "3년 7개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "141,000,000",
+     "jan_salary_am": "17,000,000",
+     "rcept_no": "20210817001989",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "8",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "8",
+     "stlm_dt": "2021-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 6개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "1",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,576,000,000",
+     "jan_salary_am": "29,000,000",
+     "rcept_no": "20210817001989",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "52",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "53",
+     "stlm_dt": "2021-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "3년 5개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "7",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "840,000,000",
+     "jan_salary_am": "19,000,000",
+     "rcept_no": "20210817001989",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "37",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "44",
+     "stlm_dt": "2021-06-30"
+    }
+   ]
+  },
+  "2021-12_11011_alotMatter": {
+   "rcept": "20220314000951",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "500",
+     "lwfr": "500",
+     "rcept_no": "20220314000951",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "500"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "1,587",
+     "lwfr": "2,221",
+     "rcept_no": "20220314000951",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "4,925"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "1,505",
+     "lwfr": "2,529",
+     "rcept_no": "20220314000951",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "3,830"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "33",
+     "lwfr": "48",
+     "rcept_no": "20220314000951",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "102"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20220314000951",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2021-12_11011_empSttus": {
+   "rcept": "20220314000951",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5년 4개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "1,977,000,000",
+     "jan_salary_am": "54,000,000",
+     "rcept_no": "20220314000951",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "39",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "41",
+     "stlm_dt": "2021-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년 3개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "267,000,000",
+     "jan_salary_am": "34,000,000",
+     "rcept_no": "20220314000951",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "9",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "9",
+     "stlm_dt": "2021-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년 2개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "5",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "2,909,000,000",
+     "jan_salary_am": "49,000,000",
+     "rcept_no": "20220314000951",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "84",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "89",
+     "stlm_dt": "2021-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "3년 2개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "13",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,769,000,000",
+     "jan_salary_am": "38,000,000",
+     "rcept_no": "20220314000951",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "43",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "56",
+     "stlm_dt": "2021-12-31"
+    }
+   ]
+  },
+  "2021-12_11011_stockTotqySttus": {
+   "rcept": "20220314000951",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "50,865,249",
+     "etc": "-",
+     "istc_totqy": "51,628,046",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "51,628,046",
+     "profit_incnr": "-",
+     "rcept_no": "20220314000951",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "보통주",
+     "stlm_dt": "2021-12-31",
+     "tesstk_co": "762,797"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "50,865,249",
+     "etc": "-",
+     "istc_totqy": "51,628,046",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "51,628,046",
+     "profit_incnr": "-",
+     "rcept_no": "20220314000951",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "합계",
+     "stlm_dt": "2021-12-31",
+     "tesstk_co": "762,797"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20220314000951",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2021-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2021-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20220314000951",
+   "rows": [
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20220314000951",
+     "rm": "-",
+     "stlm_dt": "2021-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2022-06_11012_empSttus": {
+   "rcept": "20220816001318",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5년 1개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "3",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "1,754,000,000",
+     "jan_salary_am": "29,000,000",
+     "rcept_no": "20220816001318",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "58",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "61",
+     "stlm_dt": "2022-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "1",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "253,000,000",
+     "jan_salary_am": "17,000,000",
+     "rcept_no": "20220816001318",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "14",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "15",
+     "stlm_dt": "2022-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 1개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,238,000,000",
+     "jan_salary_am": "23,000,000",
+     "rcept_no": "20220816001318",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "52",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "54",
+     "stlm_dt": "2022-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "3년 11개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "5",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "827,000,000",
+     "jan_salary_am": "19,000,000",
+     "rcept_no": "20220816001318",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "38",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "43",
+     "stlm_dt": "2022-06-30"
+    }
+   ]
+  },
+  "2022-12_11011_alotMatter": {
+   "rcept": "20230317000963",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "500",
+     "lwfr": "500",
+     "rcept_no": "20230317000963",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "500"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "4,925",
+     "lwfr": "1,587",
+     "rcept_no": "20230317000963",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "14,480"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "3,830",
+     "lwfr": "1,505",
+     "rcept_no": "20230317000963",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "9,368"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "102",
+     "lwfr": "33",
+     "rcept_no": "20230317000963",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "288"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20230317000963",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2022-12_11011_empSttus": {
+   "rcept": "20230317000963",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5년 5개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "0",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "2,605,000,000",
+     "jan_salary_am": "58,000,000",
+     "rcept_no": "20230317000963",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "45",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "45",
+     "stlm_dt": "2022-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 4개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "0",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "326,000,000",
+     "jan_salary_am": "36,000,000",
+     "rcept_no": "20230317000963",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "9",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "9",
+     "stlm_dt": "2022-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 3개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "0",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "3,036,000,000",
+     "jan_salary_am": "42,000,000",
+     "rcept_no": "20230317000963",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "72",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "72",
+     "stlm_dt": "2022-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년 2개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,801,000,000",
+     "jan_salary_am": "36,000,000",
+     "rcept_no": "20230317000963",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "48",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "50",
+     "stlm_dt": "2022-12-31"
+    }
+   ]
+  },
+  "2022-12_11011_stockTotqySttus": {
+   "rcept": "20230317000963",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "54,344,720",
+     "etc": "-",
+     "istc_totqy": "55,107,517",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "55,107,517",
+     "profit_incnr": "-",
+     "rcept_no": "20230317000963",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "보통주",
+     "stlm_dt": "2022-12-31",
+     "tesstk_co": "762,797"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "54,344,720",
+     "etc": "-",
+     "istc_totqy": "55,107,517",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "55,107,517",
+     "profit_incnr": "-",
+     "rcept_no": "20230317000963",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "합계",
+     "stlm_dt": "2022-12-31",
+     "tesstk_co": "762,797"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20230317000963",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2022-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2022-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20230317000963",
+   "rows": [
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20230317000963",
+     "rm": "-",
+     "stlm_dt": "2022-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2023-06_11012_empSttus": {
+   "rcept": "20231114001518",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "6년6개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "0",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "1,288",
+     "jan_salary_am": "34",
+     "rcept_no": "20231114001518",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "40",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "39",
+     "stlm_dt": "2023-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "6년4개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "0",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "150",
+     "jan_salary_am": "20",
+     "rcept_no": "20231114001518",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "8",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "8",
+     "stlm_dt": "2023-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년5개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "5",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,322",
+     "jan_salary_am": "22",
+     "rcept_no": "20231114001518",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "56",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "61",
+     "stlm_dt": "2023-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년5개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "5",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "732",
+     "jan_salary_am": "16",
+     "rcept_no": "20231114001518",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "41",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "46",
+     "stlm_dt": "2023-06-30"
+    }
+   ]
+  },
+  "2023-12_11011_alotMatter": {
+   "rcept": "20240318000742",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20240318000742",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2023-12_11011_empSttus": {
+   "rcept": "20240318000742",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5년6개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "1",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "2,351,000,000",
+     "jan_salary_am": "57,000,000",
+     "rcept_no": "20240318000742",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "40",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "41",
+     "stlm_dt": "2023-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년10개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "0",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "412,000,000",
+     "jan_salary_am": "29,000,000",
+     "rcept_no": "20240318000742",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "14",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "14",
+     "stlm_dt": "2023-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년6개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "8",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "3,046,000,000",
+     "jan_salary_am": "39,000,000",
+     "rcept_no": "20240318000742",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "71",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "79",
+     "stlm_dt": "2023-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년2개월",
+     "cnttk_abacpt_labrr_co": "0",
+     "cnttk_co": "10",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,549,000,000",
+     "jan_salary_am": "31,000,000",
+     "rcept_no": "20240318000742",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "0",
+     "rgllbr_co": "40",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "50",
+     "stlm_dt": "2023-12-31"
+    }
+   ]
+  },
+  "2023-12_11011_stockTotqySttus": {
+   "rcept": "20240318000742",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "54,344,720",
+     "etc": "-",
+     "istc_totqy": "55,107,517",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "55,107,517",
+     "profit_incnr": "-",
+     "rcept_no": "20240318000742",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "보통주",
+     "stlm_dt": "2023-12-31",
+     "tesstk_co": "762,797"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "54,344,720",
+     "etc": "-",
+     "istc_totqy": "55,107,517",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "55,107,517",
+     "profit_incnr": "-",
+     "rcept_no": "20240318000742",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "합계",
+     "stlm_dt": "2023-12-31",
+     "tesstk_co": "762,797"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20240318000742",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2023-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2023-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20240318000742",
+   "rows": [
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20240318000742",
+     "rm": "-",
+     "stlm_dt": "2023-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2024-06_11012_empSttus": {
+   "rcept": "20240814003344",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "6년 3개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "1,057,000,000",
+     "jan_salary_am": "33,000,000",
+     "rcept_no": "20240814003344",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "30",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "32",
+     "stlm_dt": "2024-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 5개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "217,000,000",
+     "jan_salary_am": "20,000,000",
+     "rcept_no": "20240814003344",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "9",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "11",
+     "stlm_dt": "2024-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년 7개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "11",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,357,000,000",
+     "jan_salary_am": "24,000,000",
+     "rcept_no": "20240814003344",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "46",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "57",
+     "stlm_dt": "2024-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 3개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "6",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "534,000,000",
+     "jan_salary_am": "21,000,000",
+     "rcept_no": "20240814003344",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "20",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "26",
+     "stlm_dt": "2024-06-30"
+    }
+   ]
+  },
+  "2024-12_11011_alotMatter": {
+   "rcept": "20250317000960",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20250317000960",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2024-12_11011_empSttus": {
+   "rcept": "20250317000960",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5년 7개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "2,182,000,000",
+     "jan_salary_am": "65,000,000",
+     "rcept_no": "20250317000960",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "32",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "34",
+     "stlm_dt": "2024-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 10개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "461,000,000",
+     "jan_salary_am": "42,000,000",
+     "rcept_no": "20250317000960",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "9",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "11",
+     "stlm_dt": "2024-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년 5개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "10",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "2,801,000,000",
+     "jan_salary_am": "51,000,000",
+     "rcept_no": "20250317000960",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "45",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "55",
+     "stlm_dt": "2024-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년 3개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "6",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,032,000,000",
+     "jan_salary_am": "40,000,000",
+     "rcept_no": "20250317000960",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "20",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "26",
+     "stlm_dt": "2024-12-31"
+    }
+   ]
+  },
+  "2024-12_11011_stockTotqySttus": {
+   "rcept": "20250317000960",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "54,344,720",
+     "etc": "-",
+     "istc_totqy": "55,107,517",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "55,107,517",
+     "profit_incnr": "-",
+     "rcept_no": "20250317000960",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "보통주",
+     "stlm_dt": "2024-12-31",
+     "tesstk_co": "762,797"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "54,344,720",
+     "etc": "-",
+     "istc_totqy": "55,107,517",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "55,107,517",
+     "profit_incnr": "-",
+     "rcept_no": "20250317000960",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "합계",
+     "stlm_dt": "2024-12-31",
+     "tesstk_co": "762,797"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20250317000960",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2024-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2024-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20250317000960",
+   "rows": [
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "762,797"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20250317000960",
+     "rm": "-",
+     "stlm_dt": "2024-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2025-06_11012_empSttus": {
+   "rcept": "20250814003662",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5년 5개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "4",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "1,105,000,000",
+     "jan_salary_am": "31,000,000",
+     "rcept_no": "20250814003662",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "32",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "36",
+     "stlm_dt": "2025-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년 8개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "248,000,000",
+     "jan_salary_am": "20,000,000",
+     "rcept_no": "20250814003662",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "10",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "12",
+     "stlm_dt": "2025-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 11개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "3",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,228,000,000",
+     "jan_salary_am": "25,000,000",
+     "rcept_no": "20250814003662",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "46",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "49",
+     "stlm_dt": "2025-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 3개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "4",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "444,000,000",
+     "jan_salary_am": "20,000,000",
+     "rcept_no": "20250814003662",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "18",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "23",
+     "stlm_dt": "2025-06-30"
+    }
+   ]
+  },
+  "2025-12_11011_alotMatter": {
+   "rcept": "20260318001546",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "500",
+     "lwfr": "500",
+     "rcept_no": "20260318001546",
+     "se": "주당액면가액(원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "500"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "9,684",
+     "lwfr": "4,739",
+     "rcept_no": "20260318001546",
+     "se": "(연결)당기순이익(백만원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "4,289"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-4,374",
+     "lwfr": "905",
+     "rcept_no": "20260318001546",
+     "se": "(별도)당기순이익(백만원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "1,242"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "179",
+     "lwfr": "81",
+     "rcept_no": "20260318001546",
+     "se": "(연결)주당순이익(원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "80"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "현금배당금총액(백만원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "주식배당금총액(백만원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "(연결)현금배당성향(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "현금배당수익률(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "주식배당수익률(%)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "주당 현금배당금(원)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "frmtrm": "-",
+     "lwfr": "-",
+     "rcept_no": "20260318001546",
+     "se": "주당 주식배당(주)",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "thstrm": "-"
+    }
+   ]
+  },
+  "2025-12_11011_empSttus": {
+   "rcept": "20260318001546",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "5년 9개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "3",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "2,339,000,000",
+     "jan_salary_am": "66,000,000",
+     "rcept_no": "20260318001546",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "32",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "35",
+     "stlm_dt": "2025-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 0개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "1",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "520,000,000",
+     "jan_salary_am": "45,000,000",
+     "rcept_no": "20260318001546",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "11",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "12",
+     "stlm_dt": "2025-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "4년 11개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "4",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "2,647,000,000",
+     "jan_salary_am": "54,000,000",
+     "rcept_no": "20260318001546",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "46",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "49",
+     "stlm_dt": "2025-12-31"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 0개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "4",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "944,000,000",
+     "jan_salary_am": "44,000,000",
+     "rcept_no": "20260318001546",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "18",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "22",
+     "stlm_dt": "2025-12-31"
+    }
+   ]
+  },
+  "2025-12_11011_stockTotqySttus": {
+   "rcept": "20260318001546",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "65,374,456",
+     "etc": "-",
+     "istc_totqy": "65,374,456",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "65,374,456",
+     "profit_incnr": "-",
+     "rcept_no": "20260318001546",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "보통주",
+     "stlm_dt": "2025-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "65,374,456",
+     "etc": "-",
+     "istc_totqy": "65,374,456",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "65,374,456",
+     "profit_incnr": "-",
+     "rcept_no": "20260318001546",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "합계",
+     "stlm_dt": "2025-12-31",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20260318001546",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2025-12-31",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2025-12_11011_tesstkAcqsDspsSttus": {
+   "rcept": "20260318001546",
+   "rows": [
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "762,797",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "현물보유량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "762,797",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "기타취득",
+     "acqs_mth2": "기타취득",
+     "acqs_mth3": "기타취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "762,797",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "762,797",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "총계",
+     "acqs_mth2": "총계",
+     "acqs_mth3": "총계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장내직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "장외직접취득",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "공개매수",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "직접취득",
+     "acqs_mth3": "소계",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    },
+    {
+     "acqs_mth1": "배당가능이익범위 이내 취득",
+     "acqs_mth2": "신탁계약에 의한취득",
+     "acqs_mth3": "수탁자보유물량",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260318001546",
+     "rm": "-",
+     "stlm_dt": "2025-12-31",
+     "stock_knd": "보통주",
+     "trmend_qy": "-"
+    }
+   ]
+  },
+  "2026-06_11012_empSttus": {
+   "rcept": "20260814000894",
+   "rows": [
+    {
+     "avrg_cnwk_sdytrn": "6년 4개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "2",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "1,161,000,000",
+     "jan_salary_am": "34,000,000",
+     "rcept_no": "20260814000894",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "33",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "35",
+     "stlm_dt": "2026-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 11개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "-",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "사무관리직",
+     "fyer_salary_totamt": "248,000,000",
+     "jan_salary_am": "22,000,000",
+     "rcept_no": "20260814000894",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "11",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "11",
+     "stlm_dt": "2026-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "5년 4개월",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "3",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "1,257,000,000",
+     "jan_salary_am": "26,000,000",
+     "rcept_no": "20260814000894",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "45",
+     "rm": "-",
+     "sexdstn": "남",
+     "sm": "48",
+     "stlm_dt": "2026-06-30"
+    },
+    {
+     "avrg_cnwk_sdytrn": "6년",
+     "cnttk_abacpt_labrr_co": "-",
+     "cnttk_co": "3",
+     "corp_name": "KX하이텍",
+     "fo_bbm": "생산직",
+     "fyer_salary_totamt": "485,000,000",
+     "jan_salary_am": "22,000,000",
+     "rcept_no": "20260814000894",
+     "reform_bfe_emp_co_cnttk": "-",
+     "reform_bfe_emp_co_etc": "-",
+     "reform_bfe_emp_co_rgllbr": "-",
+     "rgllbr_abacpt_labrr_co": "-",
+     "rgllbr_co": "19",
+     "rm": "-",
+     "sexdstn": "여",
+     "sm": "22",
+     "stlm_dt": "2026-06-30"
+    }
+   ]
+  },
+  "2026-06_11012_stockTotqySttus": {
+   "rcept": "20260814000894",
+   "rows": [
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "76,668,090",
+     "etc": "-",
+     "istc_totqy": "76,668,090",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "76,668,090",
+     "profit_incnr": "-",
+     "rcept_no": "20260814000894",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "보통주",
+     "stlm_dt": "2026-06-30",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "76,668,090",
+     "etc": "-",
+     "istc_totqy": "76,668,090",
+     "isu_stock_totqy": "200,000,000",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "76,668,090",
+     "profit_incnr": "-",
+     "rcept_no": "20260814000894",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "합계",
+     "stlm_dt": "2026-06-30",
+     "tesstk_co": "-"
+    },
+    {
+     "corp_name": "KX하이텍",
+     "distb_stock_co": "-",
+     "etc": "-",
+     "istc_totqy": "-",
+     "isu_stock_totqy": "-",
+     "now_to_dcrs_stock_totqy": "-",
+     "now_to_isu_stock_totqy": "-",
+     "profit_incnr": "-",
+     "rcept_no": "20260814000894",
+     "rdmstk_repy": "-",
+     "redc": "-",
+     "se": "비고",
+     "stlm_dt": "2026-06-30",
+     "tesstk_co": "-"
+    }
+   ]
+  },
+  "2026-06_11012_tesstkAcqsDspsSttus": {
+   "rcept": "20260814000894",
+   "rows": [
+    {
+     "acqs_mth1": "-",
+     "acqs_mth2": "-",
+     "acqs_mth3": "-",
+     "bsis_qy": "-",
+     "change_qy_acqs": "-",
+     "change_qy_dsps": "-",
+     "change_qy_incnr": "-",
+     "corp_name": "KX하이텍",
+     "rcept_no": "20260814000894",
+     "rm": "-",
+     "stlm_dt": "2026-06-30",
+     "stock_knd": "-",
+     "trmend_qy": "-"
+    }
+   ]
+  }
+ },
+ "induty_code": "2224",
+ "layout": 1,
+ "market": "코스닥",
+ "memo": "KX하이텍",
+ "periods": {
+  "2019-12_11011": {
+   "end": "2019-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20200330",
+     "rcept_no": "20200330003497",
+     "report_nm": "사업보고서 (2019.12)"
+    }
+   ],
+   "first_dt": "20200330",
+   "fy": 2019,
+   "latest": "20200330003497",
+   "reprt_code": "11011"
+  },
+  "2020-03_11013": {
+   "end": "2020-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20200515",
+     "rcept_no": "20200515002204",
+     "report_nm": "분기보고서 (2020.03)"
+    }
+   ],
+   "first_dt": "20200515",
+   "fy": 2020,
+   "latest": "20200515002204",
+   "reprt_code": "11013"
+  },
+  "2020-06_11012": {
+   "end": "2020-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20200814",
+     "rcept_no": "20200814000063",
+     "report_nm": "반기보고서 (2020.06)"
+    }
+   ],
+   "first_dt": "20200814",
+   "fy": 2020,
+   "latest": "20200814000063",
+   "reprt_code": "11012"
+  },
+  "2020-09_11014": {
+   "end": "2020-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20201116",
+     "rcept_no": "20201116001105",
+     "report_nm": "분기보고서 (2020.09)"
+    }
+   ],
+   "first_dt": "20201116",
+   "fy": 2020,
+   "latest": "20201116001105",
+   "reprt_code": "11014"
+  },
+  "2020-12_11011": {
+   "end": "2020-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20210317",
+     "rcept_no": "20210317000819",
+     "report_nm": "사업보고서 (2020.12)"
+    }
+   ],
+   "first_dt": "20210317",
+   "fy": 2020,
+   "latest": "20210317000819",
+   "reprt_code": "11011"
+  },
+  "2021-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2021,
+   "data": {
+    "bs": {
+     "assets": 120481713161,
+     "cash": 7321719860,
+     "current_assets": 44198201352,
+     "current_liab": 33102333980,
+     "debt": 16879536418,
+     "equity": 76662078796,
+     "equity_owner": 75747151570,
+     "inventories": 13174525818,
+     "liabilities": 43819634365
+    },
+    "cf": {
+     "capex": 5292435311,
+     "capex_int": 0,
+     "cff": 17705307300,
+     "cfi": -9945332778,
+     "cfo": -3651366673
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      14452222000
+     ],
+     [
+      "유동성전환사채",
+      2427314418
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 15841558100,
+      "cum": 15841558100
+     },
+     "eps": {
+      "3m": -15,
+      "cum": -15
+     },
+     "gross": {
+      "3m": 3374026432,
+      "cum": 3374026432
+     },
+     "ni": {
+      "3m": -899376421,
+      "cum": -899376421
+     },
+     "ni_minority": {
+      "3m": -163723403,
+      "cum": -163723403
+     },
+     "ni_owner": {
+      "3m": -735653018,
+      "cum": -735653018
+     },
+     "op": {
+      "3m": 483752276,
+      "cum": 483752276
+     },
+     "pbt": {
+      "3m": -792965613,
+      "cum": -792965613
+     },
+     "revenue": {
+      "3m": 19215584532,
+      "cum": 19215584532
+     },
+     "sga": {
+      "3m": 2890274156,
+      "cum": 2890274156
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20210517001504",
+   "end": "2021-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20210517",
+     "rcept_no": "20210517001504",
+     "report_nm": "분기보고서 (2021.03)"
+    }
+   ],
+   "first_dt": "20210517",
+   "fy": 2021,
+   "latest": "20210517001504",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2021-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2021,
+   "data": {
+    "bs": {
+     "assets": 137638582482,
+     "cash": 8440807977,
+     "current_assets": 46591820341,
+     "current_liab": 36096638775,
+     "debt": 19250244683,
+     "equity": 88675804520,
+     "equity_owner": 87117874398,
+     "inventories": 13131323437,
+     "liabilities": 48962777962
+    },
+    "cf": {
+     "capex": 4320444993,
+     "capex_int": 0,
+     "cff": 14706161067,
+     "cfi": -10531351660,
+     "cfo": 1052886559
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      14019222000
+     ],
+     [
+      "유동성전환사채",
+      2540542683
+     ],
+     [
+      "유동성장기부채",
+      2690480000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 19023441854,
+      "cum": 34864999954
+     },
+     "eps": {
+      "3m": 47,
+      "cum": 31
+     },
+     "gross": {
+      "3m": 4756639661,
+      "cum": 8130666093
+     },
+     "ni": {
+      "3m": 2345618829,
+      "cum": 1446242408
+     },
+     "ni_minority": {
+      "3m": 172352107,
+      "cum": 8628704
+     },
+     "ni_owner": {
+      "3m": 2173266722,
+      "cum": 1437613704
+     },
+     "op": {
+      "3m": 2503135573,
+      "cum": 2986887849
+     },
+     "pbt": {
+      "3m": 2566627399,
+      "cum": 1773661786
+     },
+     "revenue": {
+      "3m": 23780081515,
+      "cum": 42995666047
+     },
+     "sga": {
+      "3m": 2253504088,
+      "cum": 5143778244
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20210817001989",
+   "end": "2021-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20210817",
+     "rcept_no": "20210817001989",
+     "report_nm": "반기보고서 (2021.06)"
+    }
+   ],
+   "first_dt": "20210817",
+   "fy": 2021,
+   "latest": "20210817001989",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2021-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2021,
+   "data": {
+    "bs": {
+     "assets": 170495515870,
+     "cash": 9511146030,
+     "current_assets": 61078528024,
+     "current_liab": 60426799512,
+     "debt": 29832550328,
+     "equity": 94450358934,
+     "equity_owner": 91767390504,
+     "inventories": 25992132834,
+     "liabilities": 76045156936
+    },
+    "cf": {
+     "capex": 6485970596,
+     "capex_int": 63619500,
+     "cff": 31550156308,
+     "cfi": -34011422665,
+     "cfo": 8759300376
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      14013254000
+     ],
+     [
+      "유동성전환사채",
+      13091617593
+     ],
+     [
+      "유동성장기부채",
+      2727678735
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 18717141959,
+      "cum": 53582141913
+     },
+     "eps": {
+      "3m": 97,
+      "cum": 128
+     },
+     "gross": {
+      "3m": 5888716133,
+      "cum": 14019382226
+     },
+     "ni": {
+      "3m": 4633082452,
+      "cum": 6079324860
+     },
+     "ni_minority": {
+      "3m": 124617289,
+      "cum": 133245993
+     },
+     "ni_owner": {
+      "3m": 4508465163,
+      "cum": 5946078867
+     },
+     "op": {
+      "3m": 3160877830,
+      "cum": 6147765679
+     },
+     "pbt": {
+      "3m": 6165797185,
+      "cum": 7939458971
+     },
+     "revenue": {
+      "3m": 24605858092,
+      "cum": 67601524139
+     },
+     "sga": {
+      "3m": 2727838303,
+      "cum": 7871616547
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20211115001542",
+   "end": "2021-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20211115",
+     "rcept_no": "20211115001542",
+     "report_nm": "분기보고서 (2021.09)"
+    }
+   ],
+   "first_dt": "20211115",
+   "fy": 2021,
+   "latest": "20211115001542",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2021-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2021,
+   "data": {
+    "bs": {
+     "assets": 180492274501,
+     "cash": 14094899542,
+     "current_assets": 64923285182,
+     "current_liab": 60508696838,
+     "debt": 29511788290,
+     "equity": 104250582630,
+     "equity_owner": 101616816029,
+     "inventories": 25378357316,
+     "liabilities": 76241691871
+    },
+    "cf": {
+     "capex": 9638391680,
+     "capex_int": 63619500,
+     "cff": 33610747026,
+     "cfi": -33678529399,
+     "cfo": 10949569904
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      16340000000
+     ],
+     [
+      "유동성전환사채",
+      10876846927
+     ],
+     [
+      "유동성장기부채",
+      2294941363
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 81740245873
+     },
+     "eps": {
+      "3m": null,
+      "cum": 102
+     },
+     "gross": {
+      "3m": null,
+      "cum": 23157125428
+     },
+     "ni": {
+      "3m": null,
+      "cum": 4924945273
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": 156151351
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": 4768793922
+     },
+     "op": {
+      "3m": null,
+      "cum": 8653494675
+     },
+     "pbt": {
+      "3m": null,
+      "cum": 5695202791
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 104897371301
+     },
+     "sga": {
+      "3m": null,
+      "cum": 14503630753
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20220314000951",
+   "end": "2021-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20220314",
+     "rcept_no": "20220314000951",
+     "report_nm": "사업보고서 (2021.12)"
+    }
+   ],
+   "first_dt": "20220314",
+   "fy": 2021,
+   "latest": "20220314000951",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2022-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2022,
+   "data": {
+    "bs": {
+     "assets": 192276454072,
+     "cash": 16977470542,
+     "current_assets": 66906649495,
+     "current_liab": 66550533855,
+     "debt": 35933224009,
+     "equity": 110631068372,
+     "equity_owner": 107942366438,
+     "inventories": 25795871717,
+     "liabilities": 81645385700
+    },
+    "cf": {
+     "capex": 3103935960,
+     "capex_int": 0,
+     "cff": 5605578789,
+     "cfi": -6289289895,
+     "cfo": 3566282106
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      22222532000
+     ],
+     [
+      "유동성전환사채",
+      11340128646
+     ],
+     [
+      "유동성장기부채",
+      2370563363
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 25765687382,
+      "cum": 25765687382
+     },
+     "eps": {
+      "3m": 70,
+      "cum": 70
+     },
+     "gross": {
+      "3m": 9390971424,
+      "cum": 9390971424
+     },
+     "ni": {
+      "3m": 3640837409,
+      "cum": 3640837409
+     },
+     "ni_minority": {
+      "3m": 54858630,
+      "cum": 54858630
+     },
+     "ni_owner": {
+      "3m": 3585978779,
+      "cum": 3585978779
+     },
+     "op": {
+      "3m": 3565352300,
+      "cum": 3565352300
+     },
+     "pbt": {
+      "3m": 4737654557,
+      "cum": 4737654557
+     },
+     "revenue": {
+      "3m": 35156658806,
+      "cum": 35156658806
+     },
+     "sga": {
+      "3m": 5825619124,
+      "cum": 5825619124
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20220518000206",
+   "end": "2022-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20220516",
+     "rcept_no": "20220516001435",
+     "report_nm": "분기보고서 (2022.03)"
+    },
+    {
+     "amend": true,
+     "rcept_dt": "20220518",
+     "rcept_no": "20220518000206",
+     "report_nm": "[기재정정]분기보고서 (2022.03)"
+    }
+   ],
+   "first_dt": "20220516",
+   "fy": 2022,
+   "latest": "20220518000206",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2022-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2022,
+   "data": {
+    "bs": {
+     "assets": 181936354649,
+     "cash": 17947496506,
+     "current_assets": 76839167129,
+     "current_liab": 70872111572,
+     "debt": 38565091941,
+     "equity": 98633509936,
+     "equity_owner": 96021050503,
+     "inventories": 28500990737,
+     "liabilities": 83302844713
+    },
+    "cf": {
+     "capex": 7538493313,
+     "capex_int": 0,
+     "cff": 11155514254,
+     "cfi": -13298042204,
+     "cfo": 5995124914
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      22580000000
+     ],
+     [
+      "유동성전환사채",
+      11808557941
+     ],
+     [
+      "유동성장기부채",
+      4176534000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 28969544148,
+      "cum": 54735231530
+     },
+     "eps": {
+      "3m": 86,
+      "cum": 157
+     },
+     "gross": {
+      "3m": 8902880714,
+      "cum": 18293852138
+     },
+     "ni": {
+      "3m": 4353696364,
+      "cum": 7994533773
+     },
+     "ni_minority": {
+      "3m": -62531594,
+      "cum": -7672964
+     },
+     "ni_owner": {
+      "3m": 4416227958,
+      "cum": 8002206737
+     },
+     "op": {
+      "3m": 3643171597,
+      "cum": 7208523897
+     },
+     "pbt": {
+      "3m": 5075843165,
+      "cum": 9813497722
+     },
+     "revenue": {
+      "3m": 37872424862,
+      "cum": 73029083668
+     },
+     "sga": {
+      "3m": 5259709117,
+      "cum": 11085328241
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20220816001318",
+   "end": "2022-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20220816",
+     "rcept_no": "20220816001318",
+     "report_nm": "반기보고서 (2022.06)"
+    }
+   ],
+   "first_dt": "20220816",
+   "fy": 2022,
+   "latest": "20220816001318",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2022-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2022,
+   "data": {
+    "bs": {
+     "assets": 187144376083,
+     "cash": 16696918705,
+     "current_assets": 74341300936,
+     "current_liab": 64062052872,
+     "debt": 34028689981,
+     "equity": 105026565191,
+     "equity_owner": 102429311270,
+     "inventories": 27179094312,
+     "liabilities": 82117810892
+    },
+    "cf": {
+     "capex": 12791743762,
+     "capex_int": 0,
+     "cff": 10050224252,
+     "cfi": -22166509587,
+     "cfo": 14718304498
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      17920000000
+     ],
+     [
+      "유동성전환사채",
+      12326155981
+     ],
+     [
+      "유동성장기부채",
+      3782534000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 34233409362,
+      "cum": 88968640892
+     },
+     "eps": {
+      "3m": 62,
+      "cum": 219
+     },
+     "gross": {
+      "3m": 9863623969,
+      "cum": 28157476107
+     },
+     "ni": {
+      "3m": 3156986158,
+      "cum": 11151519931
+     },
+     "ni_minority": {
+      "3m": -12661269,
+      "cum": -20334233
+     },
+     "ni_owner": {
+      "3m": 3169647427,
+      "cum": 11171854164
+     },
+     "op": {
+      "3m": 2822135652,
+      "cum": 10030659549
+     },
+     "pbt": {
+      "3m": 6411234833,
+      "cum": 16224732555
+     },
+     "revenue": {
+      "3m": 44097033331,
+      "cum": 117126116999
+     },
+     "sga": {
+      "3m": 7041488317,
+      "cum": 18126816558
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20221114001995",
+   "end": "2022-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20221114",
+     "rcept_no": "20221114001995",
+     "report_nm": "분기보고서 (2022.09)"
+    }
+   ],
+   "first_dt": "20221114",
+   "fy": 2022,
+   "latest": "20221114001995",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2022-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2022,
+   "data": {
+    "bs": {
+     "assets": 187325262200,
+     "cash": 10853302505,
+     "current_assets": 71201759359,
+     "current_liab": 57694773199,
+     "debt": 31233604890,
+     "equity": 113883824783,
+     "equity_owner": 111165902884,
+     "inventories": 28650270563,
+     "liabilities": 73441437417
+    },
+    "cf": {
+     "capex": 17693019580,
+     "capex_int": 126678907,
+     "cff": 5263519311,
+     "cfi": -22347503968,
+     "cfo": 13842387620
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      18560000000
+     ],
+     [
+      "유동성전환사채",
+      8830080890
+     ],
+     [
+      "유동성장기부채",
+      3843524000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 118981884025
+     },
+     "eps": {
+      "3m": null,
+      "cum": 283
+     },
+     "gross": {
+      "3m": null,
+      "cum": 37428631198
+     },
+     "ni": {
+      "3m": null,
+      "cum": 14479505419
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": 17525809
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": 14461979610
+     },
+     "op": {
+      "3m": null,
+      "cum": 12266224138
+     },
+     "pbt": {
+      "3m": null,
+      "cum": 15579351164
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 156410515223
+     },
+     "sga": {
+      "3m": null,
+      "cum": 25162407060
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20230317000963",
+   "end": "2022-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20230317",
+     "rcept_no": "20230317000963",
+     "report_nm": "사업보고서 (2022.12)"
+    }
+   ],
+   "first_dt": "20230317",
+   "fy": 2022,
+   "latest": "20230317000963",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2023-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2023,
+   "data": {
+    "bs": {
+     "assets": 208582038790,
+     "cash": 9678807876,
+     "current_assets": 87490155392,
+     "current_liab": 74346646474,
+     "debt": 33390502279,
+     "equity": 118295733978,
+     "equity_owner": 115624937461,
+     "inventories": 30915340085,
+     "liabilities": 90286304812
+    },
+    "cf": {
+     "capex": 2552488260,
+     "capex_int": 2393530,
+     "cff": 9290331615,
+     "cfi": -9243322314,
+     "cfo": -1221503930
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "단기차입금",
+      12877460000
+     ],
+     [
+      "유동성전환사채",
+      11436978279
+     ],
+     [
+      "유동성장기부채",
+      9076064000
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 29868323686,
+      "cum": 29868323686
+     },
+     "eps": {
+      "3m": 19,
+      "cum": 19
+     },
+     "gross": {
+      "3m": 8166601390,
+      "cum": 8166601390
+     },
+     "ni": {
+      "3m": 1020886322,
+      "cum": 1020886322
+     },
+     "ni_minority": {
+      "3m": -38205839,
+      "cum": -38205839
+     },
+     "ni_owner": {
+      "3m": 1059092161,
+      "cum": 1059092161
+     },
+     "op": {
+      "3m": 1288985040,
+      "cum": 1288985040
+     },
+     "pbt": {
+      "3m": 1272842922,
+      "cum": 1272842922
+     },
+     "revenue": {
+      "3m": 38034925076,
+      "cum": 38034925076
+     },
+     "sga": {
+      "3m": 6877616350,
+      "cum": 6877616350
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20230515002268",
+   "end": "2023-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20230515",
+     "rcept_no": "20230515002268",
+     "report_nm": "분기보고서 (2023.03)"
+    }
+   ],
+   "first_dt": "20230515",
+   "fy": 2023,
+   "latest": "20230515002268",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2023-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2023,
+   "data": {
+    "bs": {
+     "assets": 195944440096,
+     "cash": 17056890314,
+     "current_assets": 85545940357,
+     "current_liab": 59319509265,
+     "debt": 5831038690,
+     "equity": 113586144656,
+     "equity_owner": 111966220293,
+     "inventories": 30176935593,
+     "liabilities": 82358295440
+    },
+    "cf": {
+     "capex": 4395317094,
+     "capex_int": 2414903,
+     "cff": 8873171005,
+     "cfi": -7100369087,
+     "cfo": 4430785891
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      5831038690
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 29769468570,
+      "cum": 57005617768
+     },
+     "eps": {
+      "3m": 35,
+      "cum": 54
+     },
+     "gross": {
+      "3m": 7232805523,
+      "cum": 15138640521
+     },
+     "ni": {
+      "3m": 2120010343,
+      "cum": 3140896665
+     },
+     "ni_minority": {
+      "3m": 193872641,
+      "cum": 155666802
+     },
+     "ni_owner": {
+      "3m": 1926137702,
+      "cum": 2985229863
+     },
+     "op": {
+      "3m": 742477280,
+      "cum": 2184299926
+     },
+     "pbt": {
+      "3m": 3210908865,
+      "cum": 4669336652
+     },
+     "revenue": {
+      "3m": 37002274093,
+      "cum": 72144258289
+     },
+     "sga": {
+      "3m": 6490328243,
+      "cum": 12954340595
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20231114001518",
+   "end": "2023-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20230814",
+     "rcept_no": "20230814002311",
+     "report_nm": "반기보고서 (2023.06)"
+    },
+    {
+     "amend": true,
+     "rcept_dt": "20230816",
+     "rcept_no": "20230816000216",
+     "report_nm": "[기재정정]반기보고서 (2023.06)"
+    },
+    {
+     "amend": true,
+     "rcept_dt": "20231114",
+     "rcept_no": "20231114001518",
+     "report_nm": "[기재정정]반기보고서 (2023.06)"
+    }
+   ],
+   "first_dt": "20230814",
+   "fy": 2023,
+   "latest": "20231114001518",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2023-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2023,
+   "data": {
+    "bs": {
+     "assets": 187626471742,
+     "cash": 19555202714,
+     "current_assets": 75423212940,
+     "current_liab": 51490781088,
+     "debt": 6153151215,
+     "equity": 112500377133,
+     "equity_owner": 110835492718,
+     "inventories": 27507750971,
+     "liabilities": 75126094609
+    },
+    "cf": {
+     "capex": 9922705695,
+     "capex_int": 2427545,
+     "cff": 7650431136,
+     "cfi": -8441317669,
+     "cfo": 9492786742
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      6134259786
+     ],
+     [
+      "유동성장기부채",
+      18891429
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 30786370476,
+      "cum": 87791988244
+     },
+     "eps": {
+      "3m": -3,
+      "cum": 51
+     },
+     "gross": {
+      "3m": 7642905285,
+      "cum": 22781545806
+     },
+     "ni": {
+      "3m": -151007143,
+      "cum": 2989889522
+     },
+     "ni_minority": {
+      "3m": 43626902,
+      "cum": 199293704
+     },
+     "ni_owner": {
+      "3m": -194634045,
+      "cum": 2790595818
+     },
+     "op": {
+      "3m": 1933716319,
+      "cum": 4118016245
+     },
+     "pbt": {
+      "3m": 1545685181,
+      "cum": 6215021833
+     },
+     "revenue": {
+      "3m": 38429275761,
+      "cum": 110573534050
+     },
+     "sga": {
+      "3m": 5709188966,
+      "cum": 18663529561
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20231114001982",
+   "end": "2023-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20231114",
+     "rcept_no": "20231114001982",
+     "report_nm": "분기보고서 (2023.09)"
+    }
+   ],
+   "first_dt": "20231114",
+   "fy": 2023,
+   "latest": "20231114001982",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2023-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2023,
+   "data": {
+    "bs": {
+     "assets": 195149270192,
+     "cash": 19746960346,
+     "current_assets": 79469707794,
+     "current_liab": 55785007250,
+     "debt": 6437480882,
+     "equity": 117169796465,
+     "equity_owner": 115390027761,
+     "inventories": 31048654980,
+     "liabilities": 77979473727
+    },
+    "cf": {
+     "capex": 12217948349,
+     "capex_int": 2438600,
+     "cff": 4539956808,
+     "cfi": -10361617292,
+     "cfo": 14715318325
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      6437480882
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 120546726001
+     },
+     "eps": {
+      "3m": null,
+      "cum": 81
+     },
+     "gross": {
+      "3m": null,
+      "cum": 34130519204
+     },
+     "ni": {
+      "3m": null,
+      "cum": 4738525433
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": 318438916
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": 4420086517
+     },
+     "op": {
+      "3m": null,
+      "cum": 8121158891
+     },
+     "pbt": {
+      "3m": null,
+      "cum": 6678753819
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 154677245205
+     },
+     "sga": {
+      "3m": null,
+      "cum": 26009360313
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20240318000742",
+   "end": "2023-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20240318",
+     "rcept_no": "20240318000742",
+     "report_nm": "사업보고서 (2023.12)"
+    }
+   ],
+   "first_dt": "20240318",
+   "fy": 2023,
+   "latest": "20240318000742",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2024-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2024,
+   "data": {
+    "bs": {
+     "assets": 189050630086,
+     "cash": 11642268304,
+     "current_assets": 74886121639,
+     "current_liab": 49323420769,
+     "debt": 6773451707,
+     "equity": 118022199295,
+     "equity_owner": 116244104041,
+     "inventories": 28428824388,
+     "liabilities": 71028430791
+    },
+    "cf": {
+     "capex": 1101078906,
+     "capex_int": 47406896,
+     "cff": -1246086392,
+     "cfi": -6549233214,
+     "cfo": -309372436
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      6773451707
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 24987920242,
+      "cum": 24987920242
+     },
+     "eps": {
+      "3m": 20,
+      "cum": 20
+     },
+     "gross": {
+      "3m": 7266629313,
+      "cum": 7266629313
+     },
+     "ni": {
+      "3m": 1082040423,
+      "cum": 1082040423
+     },
+     "ni_minority": {
+      "3m": -5107015,
+      "cum": -5107015
+     },
+     "ni_owner": {
+      "3m": 1087147438,
+      "cum": 1087147438
+     },
+     "op": {
+      "3m": 2426449321,
+      "cum": 2426449321
+     },
+     "pbt": {
+      "3m": 1767099203,
+      "cum": 1767099203
+     },
+     "revenue": {
+      "3m": 32254549555,
+      "cum": 32254549555
+     },
+     "sga": {
+      "3m": 4840179992,
+      "cum": 4840179992
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20240516001470",
+   "end": "2024-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20240516",
+     "rcept_no": "20240516001470",
+     "report_nm": "분기보고서 (2024.03)"
+    }
+   ],
+   "first_dt": "20240516",
+   "fy": 2024,
+   "latest": "20240516001470",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2024-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2024,
+   "data": {
+    "bs": {
+     "assets": 186959310561,
+     "cash": 25241449389,
+     "current_assets": 77795989830,
+     "current_liab": 53505995937,
+     "debt": 14187067337,
+     "equity": 117172805513,
+     "equity_owner": 115422151257,
+     "inventories": 26236615990,
+     "liabilities": 69786505048
+    },
+    "cf": {
+     "capex": 1820353411,
+     "capex_int": 47406896,
+     "cff": -1452523148,
+     "cfi": 2955509769,
+     "cfo": 3991502422
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      14187067337
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 24818162737,
+      "cum": 49806082979
+     },
+     "eps": {
+      "3m": 72,
+      "cum": 92
+     },
+     "gross": {
+      "3m": 7360786156,
+      "cum": 14627415469
+     },
+     "ni": {
+      "3m": 3911674853,
+      "cum": 4993715276
+     },
+     "ni_minority": {
+      "3m": -21817517,
+      "cum": -26924532
+     },
+     "ni_owner": {
+      "3m": 3933492370,
+      "cum": 5020639808
+     },
+     "op": {
+      "3m": 2744522587,
+      "cum": 5170971908
+     },
+     "pbt": {
+      "3m": 4182492277,
+      "cum": 5949591480
+     },
+     "revenue": {
+      "3m": 32178948893,
+      "cum": 64433498448
+     },
+     "sga": {
+      "3m": 4616263569,
+      "cum": 9456443561
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20240814003344",
+   "end": "2024-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20240814",
+     "rcept_no": "20240814003344",
+     "report_nm": "반기보고서 (2024.06)"
+    }
+   ],
+   "first_dt": "20240814",
+   "fy": 2024,
+   "latest": "20240814003344",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2024-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2024,
+   "data": {
+    "bs": {
+     "assets": 193933773767,
+     "cash": 32699951346,
+     "current_assets": 86259562021,
+     "current_liab": 56599181460,
+     "debt": 14839544152,
+     "equity": 119952948425,
+     "equity_owner": 118159723600,
+     "inventories": 26921276244,
+     "liabilities": 73980825342
+    },
+    "cf": {
+     "capex": 4197501002,
+     "capex_int": 97148856,
+     "cff": 565370755,
+     "cfi": -2200167195,
+     "cfo": 14587787440
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      14839544152
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 26119380974,
+      "cum": 75925463953
+     },
+     "eps": {
+      "3m": 123,
+      "cum": 143
+     },
+     "gross": {
+      "3m": 9201839908,
+      "cum": 23829255377
+     },
+     "ni": {
+      "3m": 2826744496,
+      "cum": 7820459772
+     },
+     "ni_minority": {
+      "3m": 40517263,
+      "cum": 13592731
+     },
+     "ni_owner": {
+      "3m": 2786227233,
+      "cum": 7806867041
+     },
+     "op": {
+      "3m": 3898475005,
+      "cum": 9069446913
+     },
+     "pbt": {
+      "3m": 4388681612,
+      "cum": 10338273092
+     },
+     "revenue": {
+      "3m": 35321220882,
+      "cum": 99754719330
+     },
+     "sga": {
+      "3m": 5303364903,
+      "cum": 14759808464
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20241114002245",
+   "end": "2024-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20241114",
+     "rcept_no": "20241114002245",
+     "report_nm": "분기보고서 (2024.09)"
+    }
+   ],
+   "first_dt": "20241114",
+   "fy": 2024,
+   "latest": "20241114002245",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2024-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2024,
+   "data": {
+    "bs": {
+     "assets": 208516379996,
+     "cash": 39470931747,
+     "current_assets": 94936377106,
+     "current_liab": 53089606579,
+     "debt": 15492020967,
+     "equity": 128004681877,
+     "equity_owner": 126281738704,
+     "inventories": 28545124104,
+     "liabilities": 80511698119
+    },
+    "cf": {
+     "capex": 6201448048,
+     "capex_int": 96785776,
+     "cff": 5490362489,
+     "cfi": -3443659603,
+     "cfo": 17677268515
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      15492020967
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 102899914401
+     },
+     "eps": {
+      "3m": null,
+      "cum": 179
+     },
+     "gross": {
+      "3m": null,
+      "cum": 29365238092
+     },
+     "ni": {
+      "3m": null,
+      "cum": 9683911922
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": -64164216
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": 9748076138
+     },
+     "op": {
+      "3m": null,
+      "cum": 9205894920
+     },
+     "pbt": {
+      "3m": null,
+      "cum": 11850871428
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 132265152493
+     },
+     "sga": {
+      "3m": null,
+      "cum": 20159343172
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20250317000960",
+   "end": "2024-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20250317",
+     "rcept_no": "20250317000960",
+     "report_nm": "사업보고서 (2024.12)"
+    }
+   ],
+   "first_dt": "20250317",
+   "fy": 2024,
+   "latest": "20250317000960",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2025-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2025,
+   "data": {
+    "bs": {
+     "assets": 209851841623,
+     "cash": 41594282070,
+     "current_assets": 96973366852,
+     "current_liab": 53381322617,
+     "debt": 16197005249,
+     "equity": 129056332747,
+     "equity_owner": 127415147437,
+     "inventories": 27729837262,
+     "liabilities": 80795508876
+    },
+    "cf": {
+     "capex": 1135837618,
+     "capex_int": 0,
+     "cff": 2176518769,
+     "cfi": -1038526623,
+     "cfo": 985358177
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      16197005249
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 20410116561,
+      "cum": 20410116561
+     },
+     "eps": {
+      "3m": 15,
+      "cum": 15
+     },
+     "gross": {
+      "3m": 5903490637,
+      "cum": 5903490637
+     },
+     "ni": {
+      "3m": 753161407,
+      "cum": 753161407
+     },
+     "ni_minority": {
+      "3m": -82584210,
+      "cum": -82584210
+     },
+     "ni_owner": {
+      "3m": 835745617,
+      "cum": 835745617
+     },
+     "op": {
+      "3m": 1659127708,
+      "cum": 1659127708
+     },
+     "pbt": {
+      "3m": 1115854236,
+      "cum": 1115854236
+     },
+     "revenue": {
+      "3m": 26313607198,
+      "cum": 26313607198
+     },
+     "sga": {
+      "3m": 4244362929,
+      "cum": 4244362929
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20250515002140",
+   "end": "2025-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20250515",
+     "rcept_no": "20250515002140",
+     "report_nm": "분기보고서 (2025.03)"
+    }
+   ],
+   "first_dt": "20250515",
+   "fy": 2025,
+   "latest": "20250515002140",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2025-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2025,
+   "data": {
+    "bs": {
+     "assets": 198403189418,
+     "cash": 37751117484,
+     "current_assets": 85040809625,
+     "current_liab": 65747188323,
+     "debt": 26780538300,
+     "equity": 121835309352,
+     "equity_owner": 120294150037,
+     "inventories": 22511503277,
+     "liabilities": 76567880066
+    },
+    "cf": {
+     "capex": 2207212568,
+     "capex_int": 0,
+     "cff": -862297323,
+     "cfi": -9124427724,
+     "cfo": 8266910784
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      26780538300
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 27445639703,
+      "cum": 47941976304
+     },
+     "eps": {
+      "3m": 0,
+      "cum": 1
+     },
+     "gross": {
+      "3m": 6121758942,
+      "cum": 12025249579
+     },
+     "ni": {
+      "3m": -870904493,
+      "cum": -117743086
+     },
+     "ni_minority": {
+      "3m": -88384656,
+      "cum": -170968866
+     },
+     "ni_owner": {
+      "3m": -782519837,
+      "cum": 53225780
+     },
+     "op": {
+      "3m": -66493479,
+      "cum": 1592634229
+     },
+     "pbt": {
+      "3m": -2755087782,
+      "cum": -1639233546
+     },
+     "revenue": {
+      "3m": 33567398645,
+      "cum": 59967225883
+     },
+     "sga": {
+      "3m": 6188252421,
+      "cum": 10432615350
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20250814003662",
+   "end": "2025-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20250814",
+     "rcept_no": "20250814003662",
+     "report_nm": "반기보고서 (2025.06)"
+    }
+   ],
+   "first_dt": "20250814",
+   "fy": 2025,
+   "latest": "20250814003662",
+   "reprt_code": "11012",
+   "tries": 1
+  },
+  "2025-09_11014": {
+   "basis": "CFS",
+   "bsns_year": 2025,
+   "data": {
+    "bs": {
+     "assets": 205489798408,
+     "cash": 36219177720,
+     "current_assets": 90332964246,
+     "current_liab": 67866355556,
+     "debt": 27575217594,
+     "equity": 126405379212,
+     "equity_owner": 124918817843,
+     "inventories": 26720434812,
+     "liabilities": 79084419196
+    },
+    "cf": {
+     "capex": 3625978063,
+     "capex_int": 2913782,
+     "cff": -1003041070,
+     "cfi": -10401574651,
+     "cfo": 8152861694
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      27575217594
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 24005271350,
+      "cum": 68456006851
+     },
+     "eps": {
+      "3m": 55,
+      "cum": 56
+     },
+     "gross": {
+      "3m": 7964409118,
+      "cum": 19876913199
+     },
+     "ni": {
+      "3m": 2969201130,
+      "cum": 2856727154
+     },
+     "ni_minority": {
+      "3m": -55449388,
+      "cum": -226418254
+     },
+     "ni_owner": {
+      "3m": 3024650518,
+      "cum": 3083145408
+     },
+     "op": {
+      "3m": 2501040010,
+      "cum": 4094255617
+     },
+     "pbt": {
+      "3m": 3084663114,
+      "cum": 1450820186
+     },
+     "revenue": {
+      "3m": 31969680468,
+      "cum": 88332920050
+     },
+     "sga": {
+      "3m": 5463369108,
+      "cum": 15782657582
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20251114002633",
+   "end": "2025-09",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20251114",
+     "rcept_no": "20251114002633",
+     "report_nm": "분기보고서 (2025.09)"
+    }
+   ],
+   "first_dt": "20251114",
+   "fy": 2025,
+   "latest": "20251114002633",
+   "reprt_code": "11014",
+   "tries": 1
+  },
+  "2025-12_11011": {
+   "basis": "CFS",
+   "bsns_year": 2025,
+   "data": {
+    "bs": {
+     "assets": 206678209777,
+     "cash": 47557168503,
+     "current_assets": 91848966711,
+     "current_liab": 54944802469,
+     "debt": 14620637128,
+     "equity": 139310692581,
+     "equity_owner": 137810210010,
+     "inventories": 20954707050,
+     "liabilities": 67367517196
+    },
+    "cf": {
+     "capex": 4924580887,
+     "capex_int": 2764668,
+     "cff": -609576271,
+     "cfi": -12122818452,
+     "cfo": 20818631479
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      14620637128
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": null,
+      "cum": 98962020093
+     },
+     "eps": {
+      "3m": null,
+      "cum": 80
+     },
+     "gross": {
+      "3m": null,
+      "cum": 27314062465
+     },
+     "ni": {
+      "3m": null,
+      "cum": 4289110778
+     },
+     "ni_minority": {
+      "3m": null,
+      "cum": -268538616
+     },
+     "ni_owner": {
+      "3m": null,
+      "cum": 4557649394
+     },
+     "op": {
+      "3m": null,
+      "cum": 5356558422
+     },
+     "pbt": {
+      "3m": null,
+      "cum": 3283718670
+     },
+     "revenue": {
+      "3m": null,
+      "cum": 126276082558
+     },
+     "sga": {
+      "3m": null,
+      "cum": 21957504043
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20260318001546",
+   "end": "2025-12",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20260318",
+     "rcept_no": "20260318001546",
+     "report_nm": "사업보고서 (2025.12)"
+    }
+   ],
+   "first_dt": "20260318",
+   "fy": 2025,
+   "latest": "20260318001546",
+   "reprt_code": "11011",
+   "tries": 1
+  },
+  "2026-03_11013": {
+   "basis": "CFS",
+   "bsns_year": 2026,
+   "data": {
+    "bs": {
+     "assets": 210629820605,
+     "cash": 47607696098,
+     "current_assets": 98742299410,
+     "current_liab": 50149120010,
+     "debt": 11888108198,
+     "equity": 147766303089,
+     "equity_owner": 146280069730,
+     "inventories": 23439019512,
+     "liabilities": 62863517516
+    },
+    "cf": {
+     "capex": 526523147,
+     "capex_int": 0,
+     "cff": -564413307,
+     "cfi": -1023355738,
+     "cfo": 1327987783
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      11888108198
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 23232558699,
+      "cum": 23232558699
+     },
+     "eps": {
+      "3m": 69,
+      "cum": 69
+     },
+     "gross": {
+      "3m": 12488563995,
+      "cum": 12488563995
+     },
+     "ni": {
+      "3m": 4663631115,
+      "cum": 4663631115
+     },
+     "ni_minority": {
+      "3m": -14290542,
+      "cum": -14290542
+     },
+     "ni_owner": {
+      "3m": 4677921657,
+      "cum": 4677921657
+     },
+     "op": {
+      "3m": 7487741698,
+      "cum": 7487741698
+     },
+     "pbt": {
+      "3m": 4813580339,
+      "cum": 4813580339
+     },
+     "revenue": {
+      "3m": 35721122694,
+      "cum": 35721122694
+     },
+     "sga": {
+      "3m": 5000822297,
+      "cum": 5000822297
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익(매출액)",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20260515000854",
+   "end": "2026-03",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20260515",
+     "rcept_no": "20260515000854",
+     "report_nm": "분기보고서 (2026.03)"
+    }
+   ],
+   "first_dt": "20260515",
+   "fy": 2026,
+   "latest": "20260515000854",
+   "reprt_code": "11013",
+   "tries": 1
+  },
+  "2026-06_11012": {
+   "basis": "CFS",
+   "bsns_year": 2026,
+   "data": {
+    "bs": {
+     "assets": 224094282596,
+     "cash": 44800568659,
+     "current_assets": 118629663464,
+     "current_liab": 52466633029,
+     "debt": 6333091592,
+     "equity": 160497455509,
+     "equity_owner": 158795402265,
+     "inventories": 29482430119,
+     "liabilities": 63596827087
+    },
+    "cf": {
+     "capex": 1196998581,
+     "capex_int": 0,
+     "cff": -931040238,
+     "cfi": -1322905827,
+     "cfo": -914915839
+    },
+    "currency": "KRW",
+    "debt_parts": [
+     [
+      "유동성전환사채",
+      6333091592
+     ]
+    ],
+    "is": {
+     "cogs": {
+      "3m": 28769792533,
+      "cum": 52002351232
+     },
+     "eps": {
+      "3m": 53,
+      "cum": 114
+     },
+     "gross": {
+      "3m": 11677517659,
+      "cum": 24166081654
+     },
+     "ni": {
+      "3m": 4309266239,
+      "cum": 8972897354
+     },
+     "ni_minority": {
+      "3m": 208330003,
+      "cum": 194039461
+     },
+     "ni_owner": {
+      "3m": 4100936236,
+      "cum": 8778857893
+     },
+     "op": {
+      "3m": 7272672271,
+      "cum": 14760413969
+     },
+     "pbt": {
+      "3m": 5621995724,
+      "cum": 10435576063
+     },
+     "revenue": {
+      "3m": 40447310192,
+      "cum": 76168432886
+     },
+     "sga": {
+      "3m": 4404845388,
+      "cum": 9405667685
+     }
+    },
+    "matched": {
+     "assets": [
+      "ifrs-full_Assets",
+      "자산총계",
+      "id"
+     ],
+     "capex": [
+      "ifrs-full_PurchaseOfPropertyPlantAndEquipmentClassifiedAsInvestingActivities",
+      "유형자산의 취득",
+      "id"
+     ],
+     "capex_int": [
+      "ifrs-full_PurchaseOfIntangibleAssetsClassifiedAsInvestingActivities",
+      "무형자산의 취득",
+      "id"
+     ],
+     "cash": [
+      "ifrs-full_CashAndCashEquivalents",
+      "현금및현금성자산",
+      "id"
+     ],
+     "cff": [
+      "ifrs-full_CashFlowsFromUsedInFinancingActivities",
+      "재무활동현금흐름",
+      "id"
+     ],
+     "cfi": [
+      "ifrs-full_CashFlowsFromUsedInInvestingActivities",
+      "투자활동현금흐름",
+      "id"
+     ],
+     "cfo": [
+      "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+      "영업활동현금흐름",
+      "id"
+     ],
+     "cogs": [
+      "ifrs-full_CostOfSales",
+      "매출원가",
+      "id"
+     ],
+     "current_assets": [
+      "ifrs-full_CurrentAssets",
+      "유동 자산",
+      "id"
+     ],
+     "current_liab": [
+      "ifrs-full_CurrentLiabilities",
+      "유동 부채",
+      "id"
+     ],
+     "eps": [
+      "ifrs-full_BasicEarningsLossPerShare",
+      "기본주당이익(손실)",
+      "id"
+     ],
+     "equity": [
+      "ifrs-full_Equity",
+      "자본총계",
+      "id"
+     ],
+     "equity_owner": [
+      "ifrs-full_EquityAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 자본",
+      "id"
+     ],
+     "gross": [
+      "ifrs-full_GrossProfit",
+      "매출총이익",
+      "id"
+     ],
+     "inventories": [
+      "ifrs-full_Inventories",
+      "유동 재고자산",
+      "id"
+     ],
+     "liabilities": [
+      "ifrs-full_Liabilities",
+      "부채총계",
+      "id"
+     ],
+     "ni": [
+      "ifrs-full_ProfitLoss",
+      "당기순이익(손실)",
+      "id"
+     ],
+     "ni_minority": [
+      "ifrs-full_ProfitLossAttributableToNoncontrollingInterests",
+      "비지배지분에 귀속되는 당기순이익(손실)",
+      "name"
+     ],
+     "ni_owner": [
+      "ifrs-full_ProfitLossAttributableToOwnersOfParent",
+      "지배기업의 소유주에게 귀속되는 당기순이익(손실)",
+      "id"
+     ],
+     "op": [
+      "dart_OperatingIncomeLoss",
+      "영업이익(손실)",
+      "id"
+     ],
+     "pbt": [
+      "ifrs-full_ProfitLossBeforeTax",
+      "법인세비용차감전순이익(손실)",
+      "id"
+     ],
+     "revenue": [
+      "ifrs-full_Revenue",
+      "수익",
+      "id"
+     ],
+     "sga": [
+      "dart_TotalSellingGeneralAdministrativeExpenses",
+      "판매비와관리비",
+      "id"
+     ]
+    }
+   },
+   "data_rcept": "20260814000894",
+   "end": "2026-06",
+   "filings": [
+    {
+     "amend": false,
+     "rcept_dt": "20260814",
+     "rcept_no": "20260814000894",
+     "report_nm": "반기보고서 (2026.06)"
+    }
+   ],
+   "first_dt": "20260814",
+   "fy": 2026,
+   "latest": "20260814000894",
+   "reprt_code": "11012",
+   "tries": 1
+  }
+ },
+ "prices": {
+  "n_days": 110,
+  "updated": "2026-10-31T18:33+09:00"
+ },
+ "stock_name": "KX하이텍"
+}
